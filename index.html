@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo de Produtos</title>
+    <title>Catálogo StarkWear</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -20,6 +20,17 @@
             --transition: all 0.3s ease;
         }
 
+        /* Dark mode */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --light: #212529;
+                --dark: #f8f9fa;
+                --light-gray: #343a40;
+                --gray: #adb5bd;
+                --white: #2b3035;
+            }
+        }
+
         * {
             box-sizing: border-box;
             margin: 0;
@@ -31,6 +42,7 @@
             background-color: var(--light-gray);
             padding: 20px;
             color: var(--dark);
+            transition: background-color 0.3s ease;
         }
 
         h1 {
@@ -166,6 +178,8 @@
             font-size: 16px;
             transition: var(--transition);
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            background-color: var(--white);
+            color: var(--dark);
         }
 
         .barra-pesquisa input:focus {
@@ -226,7 +240,7 @@
         }
 
         .filtro-opcoes.expandido {
-            max-height: 500px; /* Ajuste conforme necessário */
+            max-height: 500px;
         }
 
         .filtro-item {
@@ -314,15 +328,17 @@
             transition: opacity 0.5s ease;
         }
 
-        .produto-imagem:not(:first-child) {
-            position: absolute;
-            top: 0;
-            left: 0;
-            opacity: 0;
+        /* Nova classe para container de múltiplas imagens */
+        .multi-imagem-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            height: 100%;
         }
 
-        .produto-imagens:hover .produto-imagem:not(:first-child) {
-            opacity: 1;
+        .multi-imagem-container .produto-imagem {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
 
         .produto-info {
@@ -396,7 +412,7 @@
             transform: translateX(3px);
         }
 
-        /* Badge de desconto (opcional) */
+        /* Badge de desconto */
         .produto-badge {
             position: absolute;
             top: 15px;
@@ -409,6 +425,100 @@
             font-weight: 600;
             z-index: 1;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Preço */
+        .produto-preco {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--primary-dark);
+            margin: 10px 0;
+        }
+
+        .produto-preco-original {
+            text-decoration: line-through;
+            color: var(--gray);
+            font-size: 0.9rem;
+            margin-right: 8px;
+        }
+
+        /* Loading skeleton */
+        .skeleton-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .skeleton-card {
+            background-color: var(--white);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+        }
+
+        .skeleton-image {
+            height: 280px;
+            background-color: var(--light-gray);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .skeleton-image::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.5), transparent);
+            animation: shimmer 1.5s infinite;
+        }
+
+        .skeleton-content {
+            padding: 20px;
+        }
+
+        .skeleton-line {
+            height: 16px;
+            background-color: var(--light-gray);
+            margin-bottom: 12px;
+            border-radius: 4px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .skeleton-line::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.5), transparent);
+            animation: shimmer 1.5s infinite;
+        }
+
+        .skeleton-line.short {
+            width: 60%;
+        }
+
+        .skeleton-line.medium {
+            width: 80%;
+        }
+
+        @keyframes shimmer {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(100%); }
+        }
+
+        /* Contador de produtos */
+        .contador-produtos {
+            text-align: center;
+            margin-bottom: 20px;
+            color: var(--gray);
+            font-size: 0.9rem;
         }
 
         /* Estados */
@@ -427,6 +537,19 @@
             color: #e76f51;
         }
 
+        /* Categorias */
+        .categoria-container {
+            margin-bottom: 40px;
+        }
+
+        .categoria-titulo {
+            font-size: 1.8rem;
+            color: var(--primary-dark);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--accent);
+        }
+
         /* Responsividade */
         @media (max-width: 768px) {
             .modal-content {
@@ -434,12 +557,12 @@
                 max-height: 85vh;
             }
 
-            .produtos-container {
+            .produtos-container, .skeleton-container {
                 grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
                 gap: 20px;
             }
 
-            .produto-imagens {
+            .produto-imagens, .skeleton-image {
                 height: 220px;
             }
         }
@@ -449,7 +572,7 @@
                 font-size: 2rem;
             }
 
-            .produtos-container {
+            .produtos-container, .skeleton-container {
                 grid-template-columns: 1fr;
             }
 
@@ -460,7 +583,7 @@
     </style>
 </head>
 <body>
-    <h1>Catálogo de Produtos</h1>
+    <h1>Catálogo StarkWear</h1>
 
     <!-- Botão para abrir filtros -->
     <button class="btn-filtros" id="btn-abrir-filtros">
@@ -507,9 +630,38 @@
         </div>
     </div>
 
-    <!-- Lista de produtos -->
-    <div id="produtos-container" class="produtos-container">
-        <div class="loading">Carregando produtos...</div>
+    <!-- Contador de produtos -->
+    <div id="contador-produtos" class="contador-produtos"></div>
+
+    <!-- Lista de produtos organizada por categoria -->
+    <div id="produtos-container">
+        <!-- Loading skeleton -->
+        <div class="skeleton-container">
+            <div class="skeleton-card">
+                <div class="skeleton-image"></div>
+                <div class="skeleton-content">
+                    <div class="skeleton-line medium"></div>
+                    <div class="skeleton-line short"></div>
+                    <div class="skeleton-line" style="width: 40%;"></div>
+                </div>
+            </div>
+            <div class="skeleton-card">
+                <div class="skeleton-image"></div>
+                <div class="skeleton-content">
+                    <div class="skeleton-line medium"></div>
+                    <div class="skeleton-line short"></div>
+                    <div class="skeleton-line" style="width: 40%;"></div>
+                </div>
+            </div>
+            <div class="skeleton-card">
+                <div class="skeleton-image"></div>
+                <div class="skeleton-content">
+                    <div class="skeleton-line medium"></div>
+                    <div class="skeleton-line short"></div>
+                    <div class="skeleton-line" style="width: 40%;"></div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script>
@@ -564,68 +716,187 @@
             }
         });
 
+        // Função para formatar preço
+        function formatarPreco(preco) {
+            return preco.toFixed(2).replace('.', ',');
+        }
+
+        // Função para atualizar o contador de produtos
+        function atualizarContador(total) {
+            const contador = document.getElementById('contador-produtos');
+            contador.textContent = `${total} ${total === 1 ? 'produto encontrado' : 'produtos encontrados'}`;
+        }
+
+        // Função para renderizar os produtos organizados por categoria
         function renderizarProdutos() {
             const container = document.getElementById('produtos-container');
             container.innerHTML = '';
 
-            let filtrados = produtos.filter(p => {
-                const matchCategoria = categoriaSelecionada ? p.categoria === categoriaSelecionada : true;
-                const matchPesquisa = p.titulo.toLowerCase().includes(termoPesquisa.toLowerCase());
-                
-                // Verifica se o produto tem algum dos tamanhos selecionados
-                let matchTamanho = true;
-                if (tamanhosSelecionados.length > 0) {
-                    matchTamanho = p.tamanhos && p.tamanhos.some(t => tamanhosSelecionados.includes(t));
+            // Agrupa produtos por categoria
+            const produtosPorCategoria = produtos.reduce((acc, produto) => {
+                const categoria = produto.categoria || 'Outros';
+                if (!acc[categoria]) {
+                    acc[categoria] = [];
                 }
-                
-                return matchCategoria && matchPesquisa && matchTamanho;
+                acc[categoria].push(produto);
+                return acc;
+            }, {});
+
+            let totalProdutos = 0;
+
+            // Filtra os produtos de cada categoria
+            Object.entries(produtosPorCategoria).forEach(([categoria, produtosCategoria]) => {
+                const filtrados = produtosCategoria.filter(p => {
+                    const matchPesquisa = termoPesquisa === '' || 
+                        (p.nome && p.nome.toLowerCase().includes(termoPesquisa.toLowerCase())) ||
+                        (p.descricao && p.descricao.toLowerCase().includes(termoPesquisa.toLowerCase()));
+                    
+                    // Verifica se o produto tem algum dos tamanhos selecionados
+                    let matchTamanho = true;
+                    if (tamanhosSelecionados.length > 0) {
+                        matchTamanho = p.tamanhos && p.tamanhos.some(t => tamanhosSelecionados.includes(t));
+                    }
+                    
+                    return matchPesquisa && matchTamanho && 
+                        (categoriaSelecionada === '' || categoria === categoriaSelecionada);
+                });
+
+                if (filtrados.length === 0) return;
+
+                totalProdutos += filtrados.length;
+
+                // Cria container para a categoria
+                const categoriaDiv = document.createElement('div');
+                categoriaDiv.className = 'categoria-container';
+
+                // Adiciona título da categoria
+                const tituloCategoria = document.createElement('h2');
+                tituloCategoria.className = 'categoria-titulo';
+                tituloCategoria.textContent = categoria;
+                categoriaDiv.appendChild(tituloCategoria);
+
+                // Cria grid de produtos para esta categoria
+                const produtosGrid = document.createElement('div');
+                produtosGrid.className = 'produtos-container';
+
+                // Adiciona cada produto ao grid
+                filtrados.forEach(produto => {
+                    const card = document.createElement('div');
+                    card.className = 'produto-card';
+
+                    // Badge de desconto (se aplicável)
+                    if (produto.desconto && produto.desconto > 0) {
+                        const badge = document.createElement('div');
+                        badge.className = 'produto-badge';
+                        badge.textContent = `${produto.desconto}% OFF`;
+                        card.appendChild(badge);
+                    }
+
+                    // Imagens do produto (usando imagem padrão se não houver)
+                    const imagensDiv = document.createElement('div');
+                    imagensDiv.className = 'produto-imagens';
+                    
+                    if (produto.imagens && produto.imagens.length > 0) {
+                        if (produto.imagens.length > 1) {
+                            // Mostra duas imagens lado a lado se houver mais de uma imagem
+                            const multiImagemDiv = document.createElement('div');
+                            multiImagemDiv.className = 'multi-imagem-container';
+                            
+                            // Mostra as duas primeiras imagens
+                            for (let i = 0; i < Math.min(2, produto.imagens.length); i++) {
+                                const imgElement = document.createElement('img');
+                                imgElement.className = 'produto-imagem';
+                                imgElement.src = produto.imagens[i];
+                                imgElement.alt = produto.titulo;
+                                imgElement.loading = 'lazy';
+                                multiImagemDiv.appendChild(imgElement);
+                            }
+                            
+                            imagensDiv.appendChild(multiImagemDiv);
+                        } else {
+                            // Mostra apenas uma imagem se houver apenas uma
+                            const imgElement = document.createElement('img');
+                            imgElement.className = 'produto-imagem';
+                            imgElement.src = produto.imagens[0];
+                            imgElement.alt = produto.titulo;
+                            imgElement.loading = 'lazy';
+                            imagensDiv.appendChild(imgElement);
+                        }
+                    } else {
+                        imagensDiv.innerHTML = '<div style="height: 100%; display: flex; align-items: center; justify-content: center; background-color: #f0f0f0; color: #666;">Sem imagem</div>';
+                    }
+                    card.appendChild(imagensDiv);
+
+                    // Informações do produto
+                    const infoDiv = document.createElement('div');
+                    infoDiv.className = 'produto-info';
+
+                    // Nome do produto
+                    const nomeProduto = document.createElement('h3');
+                    nomeProduto.className = 'produto-titulo';
+                    nomeProduto.textContent = produto.titulo || 'Produto sem nome';
+                    infoDiv.appendChild(nomeProduto);
+
+                    // Preço (com desconto se aplicável)
+                    if (produto.preco) {
+                        const precoDiv = document.createElement('div');
+                        precoDiv.className = 'produto-preco';
+                        
+                        if (produto.desconto && produto.desconto > 0) {
+                            const precoOriginal = document.createElement('span');
+                            precoOriginal.className = 'produto-preco-original';
+                            precoOriginal.textContent = `R$ ${formatarPreco(produto.preco)}`;
+                            precoDiv.appendChild(precoOriginal);
+                            
+                            const precoComDesconto = produto.preco * (1 - (produto.desconto / 100));
+                            precoDiv.innerHTML += `R$ ${formatarPreco(precoComDesconto)}`;
+                        } else {
+                            precoDiv.textContent = `R$ ${formatarPreco(produto.preco)}`;
+                        }
+                        
+                        infoDiv.appendChild(precoDiv);
+                    }
+
+                    // Tamanhos disponíveis
+                    if (produto.tamanhos && produto.tamanhos.length > 0) {
+                        const tamanhosDiv = document.createElement('div');
+                        tamanhosDiv.className = 'produto-tamanhos';
+                        
+                        produto.tamanhos.forEach(tamanho => {
+                            const spanTamanho = document.createElement('span');
+                            spanTamanho.className = 'tamanho';
+                            spanTamanho.textContent = tamanho;
+                            tamanhosDiv.appendChild(spanTamanho);
+                        });
+                        
+                        infoDiv.appendChild(tamanhosDiv);
+                    }
+
+                    // Descrição (se existir)
+                    if (produto.descricao) {
+                        const descricao = document.createElement('p');
+                        descricao.textContent = produto.descricao;
+                        descricao.style.color = '#666';
+                        descricao.style.fontSize = '0.9rem';
+                        infoDiv.appendChild(descricao);
+                    }
+
+                    card.appendChild(infoDiv);
+                    produtosGrid.appendChild(card);
+                });
+
+                categoriaDiv.appendChild(produtosGrid);
+                container.appendChild(categoriaDiv);
             });
 
-            if (filtrados.length === 0) {
+            // Atualiza o contador de produtos
+            atualizarContador(totalProdutos);
+
+            // Mensagem se nenhum produto for encontrado
+            if (container.children.length === 0) {
                 container.innerHTML = '<div class="error">Nenhum produto encontrado com esses critérios</div>';
-                return;
+                atualizarContador(0);
             }
-
-            filtrados.forEach(produto => {
-                const card = document.createElement('div');
-                card.className = 'produto-card';
-
-                // Adiciona badge se houver desconto (opcional)
-                if (produto.desconto) {
-                    const badge = document.createElement('div');
-                    badge.className = 'produto-badge';
-                    badge.textContent = produto.desconto + '% OFF';
-                    card.appendChild(badge);
-                }
-
-                let imagensHTML = '';
-                if (produto.imagens && produto.imagens.length > 0) {
-                    produto.imagens.forEach((img, index) => {
-                        imagensHTML += `<img src="${img}" alt="${produto.titulo}" class="produto-imagem" style="${index > 0 ? 'opacity: 0;' : ''}">`;
-                    });
-                } else {
-                    imagensHTML = '<div style="height: 100%; display: flex; align-items: center; justify-content: center; background-color: #f0f0f0; color: #666;">Sem imagem</div>';
-                }
-
-                let tamanhosHTML = '';
-                if (produto.tamanhos && produto.tamanhos.length > 0) {
-                    produto.tamanhos.forEach(t => tamanhosHTML += `<span class="tamanho">${t}</span>`);
-                } else {
-                    tamanhosHTML = '<span class="tamanho">Único</span>';
-                }
-
-                card.innerHTML = `
-                    <div class="produto-imagens">${imagensHTML}</div>
-                    <div class="produto-info">
-                        <h3 class="produto-titulo">${produto.titulo}</h3>
-                        <div class="produto-tamanhos">${tamanhosHTML}</div>
-                    </div>
-                `;
-                //<span class="produto-categoria">${produto.categoria || 'Sem categoria'}</span>
-                        //<a href="${produto.url_produto}" target="_blank" class="produto-link">Ver Detalhes</a>
-
-                container.appendChild(card);
-            });
         }
 
         function carregarCategorias() {
@@ -713,74 +984,245 @@
             });
         }
 
+        // Event listener para a barra de pesquisa
         document.getElementById('pesquisa').addEventListener('input', (e) => {
             termoPesquisa = e.target.value;
+            renderizarProdutos();
         });
 
-        // Simulando dados de produtos (substitua pelo seu fetch real)
-        // fetch('http://127.0.0.1:5000/json/todos-jsons')
-        //     .then(res => {
-        //         if (!res.ok) throw new Error('Erro ao carregar produtos');
-        //         return res.json();
-        //     })
-        //     .then(data => {
-        //         produtos = data;
-        //         carregarCategorias();
-        //         carregarTamanhos();
-        //         renderizarProdutos();
-        //     })
-        //     .catch(err => {
-        //         document.getElementById('produtos-container').innerHTML = `<div class="error">${err.message}</div>`;
-        //     });
-          async function loadMultipleJSONs(filePaths) {
-        try {
-            const promises = filePaths.map(path => fetch(path).then(res => res.json()));
-            const results = await Promise.all(promises);
-            return results;
-        } catch (error) {
-            console.error('Erro ao carregar JSONs:', error);
-        }
-    }
-
-    // Uso:
-    document.addEventListener('DOMContentLoaded', async () => {
-        const jsonFiles = ['dados1.json', 'dados2.json', 'dados3.json'];
-        const allData = await loadMultipleJSONs(jsonFiles);
-        
-        allData.forEach((data, index) => {
-            console.log(`Dados ${index + 1}:`, data);
-            // Faça algo com cada conjunto de dados
-        });
-    });
-
-        // Exemplo de dados estáticos (substitua pelo seu fetch real)
-        produtos = [
-            {
-                titulo: 'Camiseta Básica',
-                categoria: 'Camisetas',
-                tamanhos: ['P', 'M', 'G'],
-                imagens: ['https://via.placeholder.com/300x200?text=Camiseta+Básica'],
-                url_produto: '#'
-            },
-            {
-                titulo: 'Calça Jeans',
-                categoria: 'Calças',
-                tamanhos: ['38', '40', '42'],
-                imagens: ['https://via.placeholder.com/300x200?text=Calça+Jeans'],
-                url_produto: '#'
-            },
-            {
-                titulo: 'Tênis Esportivo',
-                categoria: 'Tênis',
-                tamanhos: ['36', '37', '38', '39'],
-                imagens: ['https://via.placeholder.com/300x200?text=Tênis+Esportivo'],
-                url_produto: '#'
-            }
+        // Lista de arquivos JSON
+        const jsonFiles = [
+            'data/inverno_jaquetas-bobojaco.json',
+            'data/bermudas_berm-jeans.json',
+            'data/bermudas_berm-linho.json',
+            'data/bermudas_berm-moletom.json',
+            'data/bermudas_berm-sarja.json',
+            'data/bermudas_mauricinho-linho.json',
+            'data/bonés.json',
+            'data/calcas_jean.json',
+            'data/calcas_sarja.json',
+            'data/camisa-social.json',
+            'data/camisetas_algodao-egipcio.json',
+            'data/camisetas_cotton-egipcio.json',
+            'data/camisetas_importacao.json',
+            'data/camisetas_luxo.json',
+            'data/camisetas_manga-longa.json',
+            'data/camisetas_naciona.json',
+            'data/camisetas_overs.json',
+            'data/camisetas_pi.json',
+            'data/camisetas_seda-pi.json',
+            'data/camisetas_tamanhos-especialis.json',
+            'data/gola-polo.premium.json',
+            'data/inverno_calca-moletom.json',
+            'data/inverno_casaco-de-moletom_moletom-com-capuz.json',
+            'data/inverno_casaco-de-moletom_moletom-sem-capuz.json',
+            'data/inverno_sueter.json'
         ];
 
-        carregarCategorias();
-        carregarTamanhos();
-        renderizarProdutos();
+        // Função para carregar um único JSON
+        async function loadJSON(filePath) {
+            try {
+                const response = await fetch(filePath);
+                if (!response.ok) {
+                    throw new Error(`Erro ao carregar: ${filePath}`);
+                }
+                return await response.json();
+            } catch (error) {
+                console.error(`Erro ao carregar ${filePath}:`, error);
+                return null;
+            }
+        }
+
+        // Função para extrair o nome da categoria do nome do arquivo
+    // Função para extrair e formatar o nome da categoria do nome do arquivo
+function getCategoryName(filename) {
+    // Remove o caminho e a extensão
+    let name = filename.replace('data/', '').replace('.json', '');
+    
+    // Separa por underscores ou hífens
+    let parts = name.split(/[_-]/);
+    
+    // Mapeia palavras para tratamento especial
+    const categoryMap = {
+        'inverno': 'Inverno',
+        'bermudas': 'Bermudas',
+        'calcas': 'Calças',
+        'camisetas': 'Camisetas',
+        'gola': 'Gola',
+        'polo': 'Polo',
+        'moletom': 'Moletom',
+        'jeans': 'Jeans',
+        'linho': 'Linho',
+        'sarja': 'Sarja',
+        'algodao': 'Algodão',
+        'egipcio': 'Egípcio',
+        'cotton': 'Cotton',
+        'importacao': 'Importação',
+        'luxo': 'Luxo',
+        'manga': 'Manga',
+        'longa': 'Longa',
+        'naciona': 'Nacional',
+        'overs': 'Oversized',
+        'pi': 'Premium',
+        'seda': 'Seda',
+        'tamanhos': 'Tamanhos',
+        'especialis': 'Especiais',
+        'social': 'Social',
+        'jaquetas': 'Jaquetas',
+        'bobojaco': 'Bobo Jacó',
+        'mauricinho': 'Mauricinho',
+        'sueter': 'Suéter',
+        'bones': 'Bonés'
+    };
+    
+    // Processa cada parte do nome
+    parts = parts.map(part => {
+        // Verifica se a palavra está no mapa de substituição
+        if (categoryMap[part.toLowerCase()]) {
+            return categoryMap[part.toLowerCase()];
+        }
+        // Capitaliza a primeira letra
+        return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase();
+    });
+    
+    // Junta as partes tratadas
+    let categoryName = parts.join(' ');
+    
+    // Aplica correções específicas para combinações conhecidas
+    const specialCases = {
+        'Inverno Casaco De Moletom Moletom Com Capuz': 'Casacos de Moletom com Capuz',
+        'Inverno Casaco De Moletom Moletom Sem Capuz': 'Casacos de Moletom sem Capuz',
+        'Inverno Calca Moletom': 'Calças de Moletom',
+        'Inverno Jaquetas Bobo Jacó': 'Jaquetas Bobo Jacó',
+        'Bermudas Mauricinho Linho': 'Bermudas Mauricinho em Linho',
+        'Bermudas Berm-Jeans': 'Bermudas Jeans',
+        'Bermudas Berm-Moletom': 'Bermudas Moletom',
+        'Bermudas Mauricinho Linho': 'Bermudas Mauricinho em Linho',
+        'Bermudas Berm-Sarja': 'Bermudas Jeans',
+        'Camisetas Algodão Egípcio': 'Camisetas em Algodão Egípcio',
+        'Camisetas Cotton Egípcio': 'Camisetas em Cotton Egípcio',
+        'Camisetas Manga Longa': 'Camisetas de Manga Longa',
+        'Camisetas Tamanhos Especiais': 'Camisetas em Tamanhos Especiais',
+        'Gola Polo Premium': 'Camisas Polo Premium'
+    };
+    
+    // Aplica casos especiais se existirem
+    if (specialCases[categoryName]) {
+        return specialCases[categoryName];
+    }
+    
+    // Simplifica categorias muito longas (mais de 3 palavras)
+    if (parts.length > 3) {
+        const mainCategory = parts[0];
+        const subCategory = parts.slice(1).join(' ');
+        return `${mainCategory} • ${subCategory}`;
+    }
+    
+    return categoryName;
+}
+
+        // Função principal para carregar todos os produtos
+        async function carregarTodosProdutos() {
+            const container = document.getElementById('produtos-container');
+            
+            try {
+                // Carrega todos os arquivos JSON em paralelo
+                const promises = jsonFiles.map(async filePath => {
+                    const data = await loadJSON(filePath);
+                    const categoria = getCategoryName(filePath);
+                    
+                    // Se os dados forem um array, adiciona a categoria a cada produto
+                    if (Array.isArray(data)) {
+                        return data.map(produto => ({
+                            ...produto,
+                            categoria: categoria
+                        }));
+                    }
+                    // Se for um único produto (objeto), adiciona a categoria
+                    else if (typeof data === 'object' && data !== null) {
+                        return {
+                            ...data,
+                            categoria: categoria
+                        };
+                    }
+                    return null;
+                });
+
+                // Espera todas as promessas serem resolvidas
+                const results = await Promise.all(promises);
+                
+                // Concatena todos os produtos em um único array
+                produtos = results.flat().filter(Boolean);
+                
+                // Carrega os filtros e renderiza os produtos
+                carregarCategorias();
+                carregarTamanhos();
+                renderizarProdutos();
+                
+            } catch (error) {
+                console.error('Erro ao carregar produtos:', error);
+                container.innerHTML = `<div class="error">Erro ao carregar produtos: ${error.message}</div>`;
+            }
+        }
+
+        // Carrega filtros salvos do localStorage
+        function carregarFiltrosSalvos() {
+            const filtrosSalvos = localStorage.getItem('starkwear-filtros');
+            if (filtrosSalvos) {
+                const { categoria, tamanhos, pesquisa } = JSON.parse(filtrosSalvos);
+                categoriaSelecionada = categoria || '';
+                tamanhosSelecionados = tamanhos || [];
+                termoPesquisa = pesquisa || '';
+                
+                // Aplica os filtros salvos na UI
+                if (categoriaSelecionada) {
+                    const itensCategoria = document.querySelectorAll('#lista-categorias .filtro-item');
+                    itensCategoria.forEach(item => {
+                        if (item.textContent === categoriaSelecionada || 
+                            (categoriaSelecionada === '' && item.textContent === 'Todos')) {
+                            item.classList.add('ativo');
+                        } else {
+                            item.classList.remove('ativo');
+                        }
+                    });
+                }
+                
+                if (tamanhosSelecionados.length > 0) {
+                    const itensTamanho = document.querySelectorAll('#lista-tamanhos .filtro-item');
+                    itensTamanho.forEach(item => {
+                        if (tamanhosSelecionados.includes(item.textContent)) {
+                            item.classList.add('ativo');
+                        } else if (item.textContent === 'Todos') {
+                            item.classList.remove('ativo');
+                        }
+                    });
+                }
+                
+                if (termoPesquisa) {
+                    document.getElementById('pesquisa').value = termoPesquisa;
+                }
+            }
+        }
+
+        // Salva filtros no localStorage
+        function salvarFiltros() {
+            localStorage.setItem('starkwear-filtros', JSON.stringify({
+                categoria: categoriaSelecionada,
+                tamanhos: tamanhosSelecionados,
+                pesquisa: termoPesquisa
+            }));
+        }
+
+        // Inicia o carregamento quando a página é carregada
+        document.addEventListener('DOMContentLoaded', () => {
+            carregarFiltrosSalvos();
+            carregarTodosProdutos();
+        });
+
+        // Salva filtros quando são alterados
+        document.getElementById('pesquisa').addEventListener('input', salvarFiltros);
+        document.getElementById('lista-categorias').addEventListener('click', salvarFiltros);
+        document.getElementById('lista-tamanhos').addEventListener('click', salvarFiltros);
     </script>
 </body>
 </html>
