@@ -718,20 +718,69 @@
         });
 
         // Simulando dados de produtos (substitua pelo seu fetch real)
-        fetch('http://127.0.0.1:5000/json/todos-jsons')
-            .then(res => {
-                if (!res.ok) throw new Error('Erro ao carregar produtos');
-                return res.json();
-            })
-            .then(data => {
-                produtos = data;
-                carregarCategorias();
-                carregarTamanhos();
-                renderizarProdutos();
-            })
-            .catch(err => {
-                document.getElementById('produtos-container').innerHTML = `<div class="error">${err.message}</div>`;
-            });
+        // fetch('http://127.0.0.1:5000/json/todos-jsons')
+        //     .then(res => {
+        //         if (!res.ok) throw new Error('Erro ao carregar produtos');
+        //         return res.json();
+        //     })
+        //     .then(data => {
+        //         produtos = data;
+        //         carregarCategorias();
+        //         carregarTamanhos();
+        //         renderizarProdutos();
+        //     })
+        //     .catch(err => {
+        //         document.getElementById('produtos-container').innerHTML = `<div class="error">${err.message}</div>`;
+        //     });
+          async function loadMultipleJSONs(filePaths) {
+        try {
+            const promises = filePaths.map(path => fetch(path).then(res => res.json()));
+            const results = await Promise.all(promises);
+            return results;
+        } catch (error) {
+            console.error('Erro ao carregar JSONs:', error);
+        }
+    }
+
+    // Uso:
+    document.addEventListener('DOMContentLoaded', async () => {
+        const jsonFiles = ['dados1.json', 'dados2.json', 'dados3.json'];
+        const allData = await loadMultipleJSONs(jsonFiles);
+        
+        allData.forEach((data, index) => {
+            console.log(`Dados ${index + 1}:`, data);
+            // Faça algo com cada conjunto de dados
+        });
+    });
+
+        // Exemplo de dados estáticos (substitua pelo seu fetch real)
+        produtos = [
+            {
+                titulo: 'Camiseta Básica',
+                categoria: 'Camisetas',
+                tamanhos: ['P', 'M', 'G'],
+                imagens: ['https://via.placeholder.com/300x200?text=Camiseta+Básica'],
+                url_produto: '#'
+            },
+            {
+                titulo: 'Calça Jeans',
+                categoria: 'Calças',
+                tamanhos: ['38', '40', '42'],
+                imagens: ['https://via.placeholder.com/300x200?text=Calça+Jeans'],
+                url_produto: '#'
+            },
+            {
+                titulo: 'Tênis Esportivo',
+                categoria: 'Tênis',
+                tamanhos: ['36', '37', '38', '39'],
+                imagens: ['https://via.placeholder.com/300x200?text=Tênis+Esportivo'],
+                url_produto: '#'
+            }
+        ];
+
+        carregarCategorias();
+        carregarTamanhos();
+        renderizarProdutos();
     </script>
 </body>
 </html>
