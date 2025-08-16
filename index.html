@@ -58,9 +58,19 @@
     .barra-pesquisa input:focus { outline: none; border-color: var(--primary); box-shadow: 0 0 0 3px rgba(42, 157, 143, 0.2); }
     .filtro { margin-top: 25px; }
     .filtro h3 { font-size: 1.2rem; margin-bottom: 15px; color: var(--dark); }
+    
+     #lista-categorias { 
+        display: flex; 
+        flex-direction: column; 
+    }
 
-    /* --- ESTILOS REFINADOS PARA FILTROS --- */
-    #lista-categorias { display: flex; flex-direction: column; gap: 8px; }
+/* CORREÇÃO: Seletores atualizados para aplicar espaçamento corretamente */
+    #lista-categorias-desktop > .filtro-btn,
+    #lista-categorias-desktop > details.filtro-group,
+    #lista-categorias-mobile > .filtro-btn,
+    #lista-categorias-mobile > details.filtro-group {margin-bottom: 10px; /* Adiciona um espaço abaixo de cada item principal */}
+    #lista-categorias-desktop > *:last-child,
+    #lista-categorias-mobile > *:last-child {margin-bottom: 0; /* Remove o espaço do último item para não sobrar */}
     #lista-tamanhos { display: flex; flex-flow: row wrap; gap: 8px; }
 
     .filtro-btn {
@@ -85,61 +95,147 @@
     
     .subcategory-list { padding: 5px 15px 15px 15px; background: var(--white); display: flex; flex-direction: column; gap: 8px; }
     
-    .filtro-btn.subcategoria {
-        background: none; text-align: left; padding: 8px; font-weight: 400;
-    }
-    .filtro-btn.ativo, .filtro-btn-tamanho.ativo {
-        background: var(--primary); color: var(--white); font-weight: 700;
-    }
+    .filtro-btn.subcategoria { background: none; text-align: left; padding: 8px; font-weight: 400; }
+    .filtro-btn.ativo, .filtro-btn-tamanho.ativo { background: var(--primary); color: var(--white); font-weight: 700; }
     .filtro-btn.subcategoria:hover { background: var(--light-gray); }
 
     .produtos-area { min-width: 0; }
     .produtos-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 15px; }
     .contador-produtos { color: var(--gray); font-size: 1rem; font-weight: 500; }
     .produtos-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 30px; }
+    
     .produto-preco { font-size: 1.5rem; font-weight: 700; color: var(--primary); margin-bottom: 15px; }
     .produto-tamanho-select {
         -webkit-appearance: none; appearance: none; width: 100%; padding: 12px; border-radius: 8px;
-        border: 1px solid var(--light-gray); font-size: 1rem; background-color: white   
+        border: 1px solid var(--light-gray); font-size: 1rem; background-color: white;
         background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
         background-repeat: no-repeat; background-position: right 1rem center; background-size: 1em; cursor: pointer;
     }
     .produto-tamanho-select:focus { outline: none; border-color: var(--primary); box-shadow: 0 0 0 3px rgba(42, 157, 143, 0.2); }
 
-    .carrinho-botao-container {position: relative;}#btn-carrinho {background: var(--primary);color: var(--white);border: none;border-radius: 50%;width: 50px;height: 50px;cursor: pointer;display: flex;align-items: center;justify-content: center;box-shadow: var(--shadow);transition: var(--transition);}#btn-carrinho:hover {transform: scale(1.1);background: var(--primary-dark);}#contador-carrinho {position: absolute;top: -5px;right: -5px;background: var(--danger);color: white;border-radius: 50%;width: 22px;height: 22px;font-size: 12px;font-weight: bold;display: flex;align-items: center;justify-content: center;}.carrinho-sidebar {position: fixed;top: 0;right: -100%;width: 100%;max-width: 400px;height: 100%;background-color: var(--white);box-shadow: -5px 0 15px rgba(0,0,0,0.1);transition: right 0.4s ease;z-index: 1001;display: flex;flex-direction: column;}.carrinho-sidebar.aberto {right: 0;}.carrinho-header {padding: 20px;display: flex;justify-content: space-between;align-items: center;border-bottom: 1px solid var(--light-gray);}.carrinho-header h2 {color: var(--primary-dark);}#fechar-carrinho {background: none;border: none;font-size: 2rem;cursor: pointer;color: var(--gray);}.carrinho-body {flex-grow: 1;overflow-y: auto;padding: 20px;}#carrinho-itens .carrinho-item {display: flex;gap: 15px;margin-bottom: 15px;align-items: center;}#carrinho-itens .carrinho-item img {width: 70px;height: 70px;object-fit: cover;border-radius: 8px;}#carrinho-itens .carrinho-item-info {flex-grow: 1;}#carrinho-itens .carrinho-item-info h4 {margin: 0;font-size: 1rem;}#carrinho-itens .carrinho-item-info p {margin: 5px 0 0;font-size: 0.9rem;color: var(--gray);}#carrinho-itens .carrinho-remover-item {background: none;border: none;color: var(--danger);cursor: pointer;font-size: 1.2rem;}.carrinho-vazio {text-align: center;color: var(--gray);margin-top: 50px;}.carrinho-footer {padding: 20px;border-top: 1px solid var(--light-gray);}#btn-finalizar-compra {display: block;width: 100%;padding: 15px;background: #25D366;color: white;text-decoration: none;text-align: center;border-radius: 8px;font-weight: bold;font-size: 1.1rem;transition: var(--transition);}#btn-finalizar-compra:hover {opacity: 0.9;}.overlay {display: none;position: fixed;top: 0;left: 0;width: 100%;height: 100%;background: rgba(0,0,0,0.5);z-index: 1000;}.overlay.ativo {display: block;}.produto-card {background-color: var(--white);border-radius: 12px;overflow: hidden;box-shadow: var(--shadow);transition: var(--transition);display: flex;flex-direction: column;}.produto-card:hover {transform: translateY(-5px);box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);}.produto-imagem {height: 300px;width: 100%;object-fit: cover;}.produto-info {padding: 20px;display: flex;flex-direction: column;flex-grow: 1;}.produto-titulo {font-size: 1.1rem;margin-bottom: 12px;color: var(--dark);font-weight: 600;flex-grow: 1;}.produto-actions {margin-top: 15px;display: flex;flex-direction: column;gap: 10px;}.btn-adicionar-carrinho {background-color: var(--primary);color: var(--white);border: none;padding: 12px;border-radius: 8px;cursor: pointer;font-weight: 500;transition: var(--transition);}.btn-adicionar-carrinho:hover {background-color: var(--primary-dark);}.skeleton-card {background-color: var(--white);border-radius: 12px;overflow: hidden;box-shadow: var(--shadow);}.skeleton-image, .skeleton-line {background: linear-gradient(to right, var(--light-gray) 8%, #dddddd 18%, var(--light-gray) 33%);background-size: 800px 104px;animation: shimmer 1.5s infinite linear;}@keyframes shimmer { 0% { background-position: -468px 0; } 100% { background-position: 468px 0; } }
+    .carrinho-botao-container {position: relative;}
+    #btn-carrinho {background: var(--primary);color: var(--white);border: none;border-radius: 50%;width: 50px;height: 50px;cursor: pointer;display: flex;align-items: center;justify-content: center;box-shadow: var(--shadow);transition: var(--transition);}
+    #btn-carrinho:hover {transform: scale(1.1);background: var(--primary-dark);}
+    #contador-carrinho {position: absolute;top: -5px;right: -5px;background: var(--danger);color: white;border-radius: 50%;width: 22px;height: 22px;font-size: 12px;font-weight: bold;display: flex;align-items: center;justify-content: center;}
+    .carrinho-sidebar {position: fixed;top: 0;right: -100%;width: 100%;max-width: 400px;height: 100%;background-color: var(--white);box-shadow: -5px 0 15px rgba(0,0,0,0.1);transition: right 0.4s ease;z-index: 1001;display: flex;flex-direction: column;}.carrinho-sidebar.aberto {right: 0;}
+    .carrinho-header {padding: 20px;display: flex;justify-content: space-between;align-items: center;border-bottom: 1px solid var(--light-gray);}.carrinho-header h2 {color: var(--primary-dark);}
+    #fechar-carrinho {background: none;border: none;font-size: 2rem;cursor: pointer;color: var(--gray);}
+    .carrinho-body {flex-grow: 1;overflow-y: auto;padding: 20px;}
+    #carrinho-itens .carrinho-item {display: flex;gap: 15px;margin-bottom: 15px;align-items: center;}
+    #carrinho-itens .carrinho-item img {width: 70px;height: 70px;object-fit: cover;border-radius: 8px;}
+    #carrinho-itens .carrinho-item-info {flex-grow: 1;}
+    #carrinho-itens .carrinho-item-info h4 {margin: 0;font-size: 1rem;}
+    #carrinho-itens .carrinho-item-info p {margin: 5px 0 0;font-size: 0.9rem;color: var(--gray);}
+    #carrinho-itens .carrinho-remover-item {background: none;border: none;color: var(--danger);cursor: pointer;font-size: 1.2rem;}
+    .carrinho-vazio {text-align: center;color: var(--gray);margin-top: 50px;}
+    .carrinho-footer {padding: 20px;border-top: 1px solid var(--light-gray);}
+    #btn-finalizar-compra {display: block;width: 100%;padding: 15px;background: #25D366;color: white;text-decoration: none;text-align: center;border-radius: 8px;font-weight: bold;font-size: 1.1rem;transition: var(--transition);}
+    #btn-finalizar-compra:hover {opacity: 0.9;}
+    .overlay {display: none;position: fixed;top: 0;left: 0;width: 100%;height: 100%;background: rgba(0,0,0,0.5);z-index: 1000;}
+    .overlay.ativo {display: block;}
+    .produto-card {background-color: var(--white);border-radius: 12px;overflow: hidden;box-shadow: var(--shadow);transition: var(--transition);display: flex;flex-direction: column;}
+    .produto-card:hover {transform: translateY(-5px);box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);}
+    .produto-imagem {height: 300px;width: 100%;object-fit: cover;}
+    .produto-info {padding: 20px;display: flex;flex-direction: column;flex-grow: 1;}
+    .produto-titulo {font-size: 1.1rem;margin-bottom: 12px;color: var(--dark);font-weight: 600;flex-grow: 1;}
+    .produto-actions {margin-top: 15px;display: flex;flex-direction: column;gap: 10px;}
+    .btn-adicionar-carrinho {background-color: var(--primary);color: var(--white);border: none;padding: 12px;border-radius: 8px;cursor: pointer;font-weight: 500;transition: var(--transition);}
+    .btn-adicionar-carrinho:hover {background-color: var(--primary-dark);}
+
+    /* Toast Notification */
+    .toast-container { position: fixed; top: 20px; right: 20px; z-index: 2000; }
+    .toast { background-color: var(--primary-dark); color: white; padding: 15px 20px; border-radius: 8px; margin-bottom: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); opacity: 0; transform: translateX(100%); animation: slideIn 0.5s forwards, fadeOut 0.5s 2.5s forwards; }
+    @keyframes slideIn { to { opacity: 1; transform: translateX(0); } }
+    @keyframes fadeOut { to { opacity: 0; } }
+
+    /* Mobile Experience */
+    .mobile-nav { display: none; } /* Escondido por padrão */
+    .filtros-mobile-panel { display: none; } /* Escondido por padrão */
 
     @media (max-width: 992px) {
         .main-layout { grid-template-columns: 1fr; }
-        .filtros-sidebar { position: static; max-height: none; margin-bottom: 30px; }
+        .filtros-sidebar { display: none; } /* Esconde a sidebar no mobile */
+        .carrinho-botao-container { display: none; } /* Esconde o botão do carrinho do header */
+        .container { padding-bottom: 100px; } /* Espaço para a nav fixa não cobrir conteúdo */
+
+        .mobile-nav {
+            display: flex;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: var(--white);
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+            z-index: 999;
+            padding: 10px;
+            gap: 10px;
+        }
+        .mobile-nav-btn {
+            flex: 1;
+            padding: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            border-radius: 8px;
+            border: 2px solid var(--primary);
+            background-color: var(--white);
+            color: var(--primary);
+            cursor: pointer;
+            position: relative;
+        }
+        #btn-mobile-carrinho {
+            background-color: var(--primary);
+            color: var(--white);
+        }
+        #mobile-contador-carrinho {
+            position: absolute;
+            top: -8px;
+            right: -8px;
+            background: var(--danger);
+            color: white;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+
+        .filtros-mobile-panel {
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            max-width: 320px;
+            height: 100%;
+            background-color: var(--white);
+            z-index: 1001;
+            transition: left 0.4s ease;
+            box-shadow: 5px 0 15px rgba(0,0,0,0.1);
+        }
+        .filtros-mobile-panel.aberto { left: 0; }
+        .filtros-header { padding: 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--light-gray); }
+        .filtros-header h2 { color: var(--primary-dark); }
+        #fechar-filtros { background: none; border: none; font-size: 2rem; cursor: pointer; color: var(--gray); }
+        .filtros-body { flex-grow: 1; overflow-y: auto; padding: 20px; }
     }
     @media (max-width: 480px) {
         header h1 { font-size: 2.2rem; }
         .produtos-grid { grid-template-columns: 1fr; }
         .carrinho-sidebar { max-width: 90%; }
+        .filtros-mobile-panel { max-width: 90%; }
     }
 </style>
 </head>
 <body>
 
     <div class="container">
-        <header>
-            <h1>Catálogo StarkWear</h1>
-        </header>
+        <header><h1>Catálogo StarkWear</h1></header>
         <main class="main-layout">
             <aside class="filtros-sidebar">
-                <h2>Filtros</h2>
-                <div class="barra-pesquisa">
-                    <input type="text" id="pesquisa" placeholder="Pesquisar produto...">
-                </div>
-                <div class="filtro">
-                    <h3>Categorias</h3>
-                    <div id="lista-categorias"></div>
-                </div>
-                <div class="filtro">
-                    <h3>Tamanhos</h3>
-                    <div id="lista-tamanhos"></div>
-                </div>
-            </aside>
+                </aside>
             <section class="produtos-area">
                 <div class="produtos-header">
                     <div id="contador-produtos" class="contador-produtos"></div>
@@ -168,8 +264,26 @@
             <a id="btn-finalizar-compra" href="#" target="_blank">Finalizar Compra no WhatsApp</a>
         </div>
     </div>
-    <div id="overlay" class="overlay"></div>
 
+    <div id="filtros-mobile-panel" class="filtros-mobile-panel">
+        <div class="filtros-header">
+            <h2>Filtros</h2>
+            <button id="fechar-filtros">&times;</button>
+        </div>
+        <div class="filtros-body">
+            </div>
+    </div>
+
+    <div id="overlay" class="overlay"></div>
+    <div id="toast-container" class="toast-container"></div>
+
+    <nav class="mobile-nav">
+        <button id="btn-mobile-filtros" class="mobile-nav-btn">Filtros</button>
+        <button id="btn-mobile-carrinho" class="mobile-nav-btn">
+            Carrinho
+            <span id="mobile-contador-carrinho">0</span>
+        </button>
+    </nav>
 </body>
 
 <script>
@@ -181,36 +295,63 @@
         const WHATSAPP_NUMBER = '5551990106279';
         const dataPath = 'data/';
 
+        // Seletores DOM
         const produtosGrid = document.getElementById('produtos-grid');
-        const listaCategoriasEl = document.getElementById('lista-categorias');
-        const listaTamanhosEl = document.getElementById('lista-tamanhos');
         const inputPesquisa = document.getElementById('pesquisa');
         const contadorProdutosEl = document.getElementById('contador-produtos');
-        const btnCarrinho = document.getElementById('btn-carrinho');
+        
+        // Carrinho
+        const btnCarrinhoDesktop = document.getElementById('btn-carrinho');
         const carrinhoSidebar = document.getElementById('carrinho-sidebar');
         const fecharCarrinho = document.getElementById('fechar-carrinho');
-        const overlay = document.getElementById('overlay');
         const carrinhoItensEl = document.getElementById('carrinho-itens');
         const carrinhoVazioEl = document.getElementById('carrinho-vazio');
         const contadorCarrinhoEl = document.getElementById('contador-carrinho');
         const btnFinalizarCompra = document.getElementById('btn-finalizar-compra');
+        
+        // Mobile
+        const btnMobileFiltros = document.getElementById('btn-mobile-filtros');
+        const btnMobileCarrinho = document.getElementById('btn-mobile-carrinho');
+        const mobileContadorCarrinhoEl = document.getElementById('mobile-contador-carrinho');
+        const filtrosMobilePanel = document.getElementById('filtros-mobile-panel');
+        const fecharFiltros = document.getElementById('fechar-filtros');
+        
+        const overlay = document.getElementById('overlay');
+        const toastContainer = document.getElementById('toast-container');
+
+        // --- Lógica de UI (Alertas, Painéis) ---
+        const showToast = (message) => {
+            const toast = document.createElement('div');
+            toast.className = 'toast';
+            toast.textContent = message;
+            toastContainer.appendChild(toast);
+            setTimeout(() => {
+                toast.remove();
+            }, 3000);
+        };
 
         const toggleCarrinho = () => {
             carrinhoSidebar.classList.toggle('aberto');
             overlay.classList.toggle('ativo');
         };
 
+        const toggleFiltros = () => {
+            filtrosMobilePanel.classList.toggle('aberto');
+            overlay.classList.toggle('ativo');
+        };
+
+        // --- Lógica do Carrinho ---
         const adicionarAoCarrinho = (produtoId, tamanho) => {
             const produto = produtos.find(p => p.url_produto === produtoId);
             if (!produto) return;
             const carrinhoItemId = `${produtoId}-${tamanho}`;
             if (carrinho.some(item => item.id === carrinhoItemId)) {
-                alert('Este item já está no seu carrinho!');
+                showToast('Este item já está no seu carrinho!');
                 return;
             }
             carrinho.push({ id: carrinhoItemId, produtoId, titulo: produto.titulo, tamanho, imagem: produto.imagens[0] || '', preco: produto.preco });
             renderizarCarrinho();
-            alert(`"${produto.titulo} (${tamanho})" adicionado ao carrinho!`);
+            showToast(`"${produto.titulo}" adicionado ao carrinho!`);
         };
 
         const removerDoCarrinho = (carrinhoItemId) => {
@@ -230,6 +371,7 @@
                 });
             }
             contadorCarrinhoEl.textContent = carrinho.length;
+            mobileContadorCarrinhoEl.textContent = carrinho.length;
             atualizarLinkWhatsApp();
             carrinhoItensEl.querySelectorAll('.carrinho-remover-item').forEach(button => button.addEventListener('click', (e) => removerDoCarrinho(e.target.dataset.id)));
         };
@@ -248,7 +390,7 @@
             mensagem += "\n\nObrigado!";
             btnFinalizarCompra.href = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(mensagem)}`;
         };
-
+        
         const renderizarProdutos = () => {
             const produtosFiltrados = produtos.filter(p => {
                 const matchPesquisa = filtros.pesquisa === '' || p.titulo.toLowerCase().includes(filtros.pesquisa);
@@ -257,9 +399,7 @@
 
                 if (filtros.tipo === 'all') return true;
                 if (filtros.tipo === 'group') {
-                    if (Array.isArray(filtros.valor)) {
-                        return filtros.valor.includes(p.categoria);
-                    }
+                    if (Array.isArray(filtros.valor)) { return filtros.valor.includes(p.categoria); }
                     return p.categoria.startsWith(filtros.valor);
                 }
                 if (filtros.tipo === 'exact') return p.categoria === filtros.valor;
@@ -278,19 +418,56 @@
                 const card = document.createElement('div');
                 card.className = 'produto-card';
                 card.dataset.id = produto.url_produto;
+                
                 const precoFormatado = produto.preco ? new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(produto.preco) : '';
-                const tamanhosOptions = produto.tamanhos?.map(t => `<option value="${t}">${t}</option>`).join('') || '';
-                card.innerHTML = `<img src="${produto.imagens[0] || ''}" alt="${produto.titulo}" class="produto-imagem"><div class="produto-info"><h3 class="produto-titulo">${produto.titulo}</h3>${precoFormatado ? `<div class="produto-preco">${precoFormatado}</div>` : ''}<div class="produto-actions"><select class="produto-tamanho-select"><option value="">Selecione o tamanho</option>${tamanhosOptions}</select><button class="btn-adicionar-carrinho">Adicionar ao Carrinho</button></div></div>`;
+                
+                // CORREÇÃO: Lógica para verificar se o produto tem tamanhos
+                const hasSizes = produto.tamanhos && produto.tamanhos.length > 0;
+                let actionsHTML = '';
+
+                if (hasSizes) {
+                    const tamanhosOptions = produto.tamanhos.map(t => `<option value="${t}">${t}</option>`).join('');
+                    actionsHTML = `
+                        <select class="produto-tamanho-select">
+                            <option value="">Selecione o tamanho</option>
+                            ${tamanhosOptions}
+                        </select>
+                        <button class="btn-adicionar-carrinho">Adicionar ao Carrinho</button>
+                    `;
+                } else {
+                    // Se não tiver tamanhos, mostra apenas o botão
+                    actionsHTML = `<button class="btn-adicionar-carrinho">Adicionar ao Carrinho</button>`;
+                }
+
+                card.innerHTML = `
+                    <img src="${produto.imagens[0] || ''}" alt="${produto.titulo}" class="produto-imagem">
+                    <div class="produto-info">
+                        <h3 class="produto-titulo">${produto.titulo}</h3>
+                        ${precoFormatado ? `<div class="produto-preco">${precoFormatado}</div>` : ''}
+                        <div class="produto-actions">${actionsHTML}</div>
+                    </div>`;
                 produtosGrid.appendChild(card);
             });
 
+            // CORREÇÃO: Lógica do event listener atualizada
             produtosGrid.querySelectorAll('.btn-adicionar-carrinho').forEach(button => {
                 button.addEventListener('click', (e) => {
                     const card = e.target.closest('.produto-card');
                     const produtoId = card.dataset.id;
                     const selectTamanho = card.querySelector('.produto-tamanho-select');
-                    if (!selectTamanho.value) { alert('Por favor, selecione um tamanho.'); return; }
-                    adicionarAoCarrinho(produtoId, selectTamanho.value);
+                    
+                    let tamanhoSelecionado = 'Único'; // Valor padrão para produtos sem tamanho
+
+                    // Se o seletor de tamanho existir, valida a seleção
+                    if (selectTamanho) {
+                        if (!selectTamanho.value) {
+                            showToast('Por favor, selecione um tamanho.');
+                            return;
+                        }
+                        tamanhoSelecionado = selectTamanho.value;
+                    }
+                    
+                    adicionarAoCarrinho(produtoId, tamanhoSelecionado);
                 });
             });
         };
@@ -299,31 +476,23 @@
             const categoriasUnicas = [...new Set(produtos.map(p => p.categoria))].filter(Boolean);
             
             const filterStructure = {
-                'Bermudas': { prefix: 'Bermuda', subcategories: [] },
-                'Calças': { prefix: 'Calça', subcategories: [] },
-                'Camisetas': { prefix: 'Camiseta', subcategories: [] },
-                'Jaquetas': { prefix: 'Jaqueta', subcategories: [] },
+                'Bermudas': { prefix: 'Bermuda', subcategories: [] }, 'Calças': { prefix: 'Calça', subcategories: [] },
+                'Camisetas': { prefix: 'Camiseta', subcategories: [] }, 'Jaquetas': { prefix: 'Jaqueta', subcategories: [] },
                 'Inverno': { isComplex: true, subcategories: [] }
             };
             const topLevelCategories = { 'Bonés': 'Boné' };
             const invernoCats = ['Moletom com Capuz', 'Moletom sem Capuz', 'Suéter'];
 
             categoriasUnicas.forEach(cat => {
-                if (invernoCats.includes(cat)) {
-                    filterStructure.Inverno.subcategories.push(cat);
-                } else if (cat.startsWith(filterStructure.Jaquetas.prefix)) {
-                    filterStructure.Jaquetas.subcategories.push(cat);
-                } else if (cat.startsWith(filterStructure.Bermudas.prefix)) {
-                    filterStructure.Bermudas.subcategories.push(cat);
-                } else if (cat.startsWith(filterStructure.Calças.prefix)) {
-                    filterStructure.Calças.subcategories.push(cat);
-                } else if (cat.startsWith(filterStructure.Camisetas.prefix)) {
-                    filterStructure.Camisetas.subcategories.push(cat);
-                }
+                if (invernoCats.includes(cat)) { filterStructure.Inverno.subcategories.push(cat); } 
+                else if (cat.startsWith(filterStructure.Jaquetas.prefix)) { filterStructure.Jaquetas.subcategories.push(cat); } 
+                else if (cat.startsWith(filterStructure.Bermudas.prefix)) { filterStructure.Bermudas.subcategories.push(cat); } 
+                else if (cat.startsWith(filterStructure.Calças.prefix)) { filterStructure.Calças.subcategories.push(cat); } 
+                else if (cat.startsWith(filterStructure.Camisetas.prefix)) { filterStructure.Camisetas.subcategories.push(cat); }
             });
 
-            listaCategoriasEl.innerHTML = `<button class="filtro-btn ativo" data-filter-type="all" data-filter-value="Todos">Todos</button>`;
-
+            // Constrói o HTML dos filtros (para ser usado em ambos os painéis)
+            let filtrosHTML = `<button class="filtro-btn ativo" data-filter-type="all" data-filter-value="Todos">Todos</button>`;
             for (const groupName in filterStructure) {
                 const group = filterStructure[groupName];
                 if (group.subcategories.length > 0) {
@@ -333,36 +502,53 @@
                         return `<button class="filtro-btn subcategoria" data-filter-type="exact" data-filter-value="${sub}">${displayName}</button>`;
                     }).join('');
                     const groupValue = group.isComplex ? JSON.stringify(group.subcategories) : group.prefix;
-                    listaCategoriasEl.innerHTML += `
+                    filtrosHTML += `
                         <details class="filtro-group">
                             <summary class="filtro-group-summary" data-filter-type="group" data-filter-value='${groupValue}'>${groupName}</summary>
                             <div class="subcategory-list">${subItemsHTML}</div>
                         </details>`;
                 }
             }
-            
             for (const name in topLevelCategories) {
                 if (categoriasUnicas.includes(topLevelCategories[name])) {
-                     listaCategoriasEl.innerHTML += `<button class="filtro-btn" data-filter-type="exact" data-filter-value="${topLevelCategories[name]}">${name}</button>`;
+                     filtrosHTML += `<button class="filtro-btn" data-filter-type="exact" data-filter-value="${topLevelCategories[name]}">${name}</button>`;
                 }
             }
 
-            listaCategoriasEl.querySelectorAll('button, summary').forEach(item => {
+            // Popula os painéis
+            const desktopPanel = document.querySelector('.filtros-sidebar');
+            desktopPanel.innerHTML = `<h2>Filtros</h2><div class="barra-pesquisa"><input type="text" id="pesquisa-desktop" placeholder="Pesquisar produto..."></div><div class="filtro"><h3>Categorias</h3><div id="lista-categorias-desktop"></div></div><div class="filtro"><h3>Tamanhos</h3><div id="lista-tamanhos-desktop"></div></div>`;
+            document.getElementById('lista-categorias-desktop').innerHTML = filtrosHTML;
+
+            const mobilePanel = document.querySelector('.filtros-mobile-panel .filtros-body');
+            mobilePanel.innerHTML = `<div class="barra-pesquisa"><input type="text" id="pesquisa-mobile" placeholder="Pesquisar produto..."></div><div class="filtro"><h3>Categorias</h3><div id="lista-categorias-mobile"></div></div><div class="filtro"><h3>Tamanhos</h3><div id="lista-tamanhos-mobile"></div></div>`;
+            document.getElementById('lista-categorias-mobile').innerHTML = filtrosHTML;
+
+            // Adiciona listeners para os filtros de categoria
+            document.querySelectorAll('#lista-categorias-desktop button, #lista-categorias-desktop summary, #lista-categorias-mobile button, #lista-categorias-mobile summary').forEach(item => {
                 item.addEventListener('click', (e) => {
                     const currentTarget = e.currentTarget;
                     if (currentTarget.tagName !== 'SUMMARY') { e.preventDefault(); }
-                    document.querySelectorAll('#lista-categorias .ativo').forEach(el => el.classList.remove('ativo'));
+                    
+                    document.querySelectorAll('.filtro-btn.ativo, .filtro-group-summary.ativo').forEach(el => el.classList.remove('ativo'));
                     currentTarget.classList.add('ativo');
+
                     filtros.tipo = currentTarget.dataset.filterType;
                     let value = currentTarget.dataset.filterValue;
                     try { filtros.valor = JSON.parse(value); } catch { filtros.valor = value; }
+                    
                     renderizarProdutos();
+                    if (filtrosMobilePanel.classList.contains('aberto')) { toggleFiltros(); } // Fecha o painel mobile após seleção
                 });
             });
 
+            // Popula e adiciona listeners para os filtros de tamanho
             const tamanhos = [...new Set(produtos.flatMap(p => p.tamanhos || []))].sort();
-            listaTamanhosEl.innerHTML = tamanhos.map(t => `<button class="filtro-btn filtro-btn-tamanho" data-tamanho="${t}">${t}</button>`).join('');
-            listaTamanhosEl.querySelectorAll('button').forEach(item => {
+            const tamanhosHTML = tamanhos.map(t => `<button class="filtro-btn filtro-btn-tamanho" data-tamanho="${t}">${t}</button>`).join('');
+            document.getElementById('lista-tamanhos-desktop').innerHTML = tamanhosHTML;
+            document.getElementById('lista-tamanhos-mobile').innerHTML = tamanhosHTML;
+
+            document.querySelectorAll('#lista-tamanhos-desktop button, #lista-tamanhos-mobile button').forEach(item => {
                 item.addEventListener('click', (e) => {
                     e.currentTarget.classList.toggle('ativo');
                     const tamanho = e.currentTarget.dataset.tamanho;
@@ -370,6 +556,12 @@
                     renderizarProdutos();
                 });
             });
+
+            // Sincroniza a pesquisa
+            const pesquisaDesktop = document.getElementById('pesquisa-desktop');
+            const pesquisaMobile = document.getElementById('pesquisa-mobile');
+            pesquisaDesktop.addEventListener('input', (e) => { filtros.pesquisa = e.target.value.toLowerCase(); renderizarProdutos(); });
+            pesquisaMobile.addEventListener('input', (e) => { filtros.pesquisa = e.target.value.toLowerCase(); renderizarProdutos(); });
         };
 
         const carregarTodosProdutos = async () => {
@@ -383,7 +575,6 @@
                 'inverno_calca-moletom.json', 'inverno_casaco-de-moletom_moletom-com-capuz.json',
                 'inverno_casaco-de-moletom_moletom-sem-capuz.json', 'inverno_sueter.json'
             ];
-
             const priceMap = {
                 'bermudas_berm-jeans': 100.00, 'bermudas_berm-linho': 69.00, 'bermudas_berm-moletom': 69.00,
                 'bermudas_berm-sarja': 95.00, 'bermudas_mauricinho-linho': 85.00, 'bonés': 60.00,
@@ -392,15 +583,13 @@
                 'camisetas_naciona': 75.00, 'camisetas_overs': 95.00, 'camisetas_pi': 85.00,
                 'camisetas_seda-pi': 85.00, 'gola-polo_premium': 120.00, 'camisetas_tamanhos-especiais': 100.00,
                 'inverno_calca-moletom': 89.00,
-                'inverno_casaco-de-moletom_moletom-com-capuz': 210.00, '_inverno_casaco-de-moletom_moletom-sem-capuz': 160.00,
+                'inverno_casaco-de-moletom_moletom-com-capuz': 210.00, 'inverno_casaco-de-moletom_moletom-sem-capuz': 160.00,
                 'inverno_sueter': 189.90,
                 'Jaqueta Puffer': 310.00,
                 'Jaqueta Impermeável': 230.00,
                 'Jaqueta Social': 265.00,
-                // NOVO PREÇO PARA A CATEGORIA "OUTRAS" (AJUSTE SE NECESSÁRIO)
                 'Jaqueta Outras': 200.00
             };
-
             const getCategoryName = (filename) => {
                 const key = filename.replace('.json', '');
                 const categoryMap = {
@@ -424,34 +613,24 @@
             const promessas = jsonFiles.map(async file => {
                 const data = await loadJSON(file);
                 if (!Array.isArray(data)) return [];
-
                 if (file === '_inverno_jaquetas-bobojaco.json') {
                     return data.map(produto => {
                         const titulo = produto.titulo.toUpperCase();
                         let categoria;
-                        if (titulo.includes('IMPERMEAVEL')) {
-                            categoria = 'Jaqueta Impermeável';
-                        } else if (titulo.includes('PELUCIADA') || titulo.includes('PUFFER')) {
-                            categoria = 'Jaqueta Puffer';
-                        } else if (titulo.includes('SOCIAL')) {
-                            categoria = 'Jaqueta Social';
-                        // CORREÇÃO: Adicionada a lógica para Neoprene
-                        } else if (titulo.includes('NEOPRENE')) {
-                            categoria = 'Jaqueta Outras';
-                        } else {
-                            categoria = 'Jaqueta Puffer'; // Padrão para o que sobrar
-                        }
+                        if (titulo.includes('IMPERMEAVEL')) { categoria = 'Jaqueta Impermeável'; } 
+                        else if (titulo.includes('PELUCIADA') || titulo.includes('PUFFER')) { categoria = 'Jaqueta Puffer'; } 
+                        else if (titulo.includes('SOCIAL')) { categoria = 'Jaqueta Social'; } 
+                        else if (titulo.includes('NEOPRENE')) { categoria = 'Jaqueta Outras'; } 
+                        else { categoria = 'Jaqueta Puffer'; }
                         const preco = priceMap[categoria];
                         return { ...produto, categoria, preco };
                     });
                 }
-
                 const fileKey = file.replace('.json', '');
                 const categoria = getCategoryName(file);
                 const preco = priceMap[fileKey];
                 return data.map(p => ({ ...p, categoria, preco }));
             });
-            
             produtos = (await Promise.all(promessas)).flat();
             
             popularFiltros();
@@ -459,12 +638,15 @@
             renderizarCarrinho();
         };
 
-        btnCarrinho.addEventListener('click', toggleCarrinho);
+        // Event Listeners
+        btnCarrinhoDesktop.addEventListener('click', toggleCarrinho);
         fecharCarrinho.addEventListener('click', toggleCarrinho);
-        overlay.addEventListener('click', toggleCarrinho);
-        inputPesquisa.addEventListener('input', (e) => {
-            filtros.pesquisa = e.target.value.toLowerCase();
-            renderizarProdutos();
+        btnMobileFiltros.addEventListener('click', toggleFiltros);
+        fecharFiltros.addEventListener('click', toggleFiltros);
+        btnMobileCarrinho.addEventListener('click', toggleCarrinho);
+        overlay.addEventListener('click', () => {
+            if (carrinhoSidebar.classList.contains('aberto')) toggleCarrinho();
+            if (filtrosMobilePanel.classList.contains('aberto')) toggleFiltros();
         });
         
         carregarTodosProdutos();
