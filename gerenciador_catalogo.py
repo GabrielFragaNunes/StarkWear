@@ -28,9 +28,8 @@ SELECTORS = {
     "pagination_links": "ul.pagination a",
     "main_image": "img.img-fluid.product-image-area",
     "thumbnail_images": "ul.product-thumbnails li[data-large-image]",
-    # CORREÇÃO: Seletores de tamanho baseados na sua versão funcional original
     "sizes_selectors": [
-        "ul.product_options_list li", # Seletor mais genérico e comum no site
+        "ul.product_options_list li",
         ".option_tamanho_de_cala_e_bermuda span.size-name-cart",
         ".option_tamanho span.size-name-cart",
         ".sizes .size-name-cart"
@@ -59,40 +58,66 @@ def clean_product_title(title: str) -> str:
 
 def get_product_details(driver: webdriver.Chrome, product_url: str) -> dict:
     """
-    Visita a página de um produto para extrair imagens e tamanhos de forma robusta.
+    Visita a página de um produto para extrair imagens e tamanhos de forma robusta,
+    garantindo a ordem correta das imagens.
     """
     details = {"imagens": [], "tamanhos": []}
     try:
         driver.get(product_url)
         wait = WebDriverWait(driver, WAIT_TIMEOUT)
 
-        # 1. Coletar Imagens
+        # ======================================================================
+        # --- INÍCIO DA CORREÇÃO DE ORDENAÇÃO DE IMAGENS ---
+        # ======================================================================
+        
+        all_image_urls = []
+
+        # 1. Tenta obter a imagem principal primeiro para garantir que ela seja uma candidata
+        try:
+            main_image = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, SELECTORS["main_image"])))
+            main_image_src = main_image.get_attribute("src")
+            if main_image_src:
+                all_image_urls.append(main_image_src)
+        except TimeoutException:
+            print(f"  - Aviso: Imagem principal não encontrada para {product_url}")
+
+        # 2. Coleta as imagens das thumbnails, que ditam a ordem correta
         try:
             thumbnails = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, SELECTORS["thumbnail_images"])))
             if thumbnails:
-                details["imagens"] = list(set([thumb.get_attribute("data-large-image") for thumb in thumbnails if thumb.get_attribute("data-large-image")]))
+                # Extrai as URLs na ordem em que aparecem no HTML
+                thumbnail_urls = [
+                    thumb.get_attribute("data-large-image") 
+                    for thumb in thumbnails 
+                    if thumb.get_attribute("data-large-image")
+                ]
+                all_image_urls.extend(thumbnail_urls)
         except TimeoutException:
-            # Se não houver thumbnails, pega a imagem principal
-            try:
-                main_image = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, SELECTORS["main_image"])))
-                if main_image.get_attribute("src"):
-                    details["imagens"].append(main_image.get_attribute("src"))
-            except TimeoutException:
-                 print(f"  - Aviso: Nenhuma imagem encontrada para {product_url}")
+            print(f"  - Aviso: Nenhuma thumbnail encontrada para {product_url}. Usando apenas a imagem principal, se existir.")
+        
+        # 3. Remove duplicatas mantendo a ordem (a partir do Python 3.7+)
+        if all_image_urls:
+            details["imagens"] = list(dict.fromkeys(all_image_urls))
+        else:
+             print(f"  - Aviso: Nenhuma imagem (principal ou thumbnail) foi encontrada para {product_url}")
 
-        # 2. Coletar Tamanhos (tenta múltiplos seletores em ordem de prioridade)
+        # ======================================================================
+        # --- FIM DA CORREÇÃO ---
+        # ======================================================================
+
+        # 4. Coletar Tamanhos (lógica existente mantida)
         found_sizes = []
         for selector in SELECTORS["sizes_selectors"]:
             try:
                 size_elements = driver.find_elements(By.CSS_SELECTOR, selector)
                 if size_elements:
                     found_sizes = [el.text.strip() for el in size_elements if el.text.strip()]
-                    break # Para no primeiro seletor que encontrar resultados
+                    break
             except NoSuchElementException:
                 continue
         
-        # CORREÇÃO: Garante que os tamanhos sejam únicos usando um set e depois ordena a lista
         if found_sizes:
+            # Garante que os tamanhos sejam únicos e ordenados
             details["tamanhos"] = sorted(list(set(found_sizes)))
 
     except Exception as e:
@@ -169,8 +194,8 @@ def run_add_mode(driver: webdriver.Chrome):
 
 
 def run_update_mode(driver: webdriver.Chrome):
-    """MODO ATUALIZAR: Varre todos os arquivos JSON e atualiza o estoque de cada produto."""
-    print("🚀 Iniciando em modo 'atualizar': verificando estoque de todos os produtos existentes.")
+    """MODO ATUALIZAR: Varre todos os arquivos JSON e atualiza o estoque e imagens de cada produto."""
+    print("🚀 Iniciando em modo 'atualizar': verificando estoque e imagens de todos os produtos existentes.")
     json_files = list(OUTPUT_DIR.glob("*.json"))
     if not json_files:
         print("Nenhum arquivo JSON encontrado para atualizar.")
@@ -186,22 +211,29 @@ def run_update_mode(driver: webdriver.Chrome):
             continue
         
         produtos_atualizados = []
+        produtos_removidos_count = 0
         for produto in tqdm(produtos, desc=f"Verificando {file_path.name}", unit="produto"):
             details = get_product_details(driver, produto["url_produto"])
             
-            produto["tamanhos"] = details["tamanhos"]
+            # Atualiza sempre as imagens e os tamanhos
             produto["imagens"] = details["imagens"]
+            produto["tamanhos"] = details["tamanhos"]
             
             is_bone = 'boné' in produto.get('categoria', '').lower()
             
-            if produto["tamanhos"] or is_bone:
+            # Mantém o produto se ele tiver tamanhos, imagens ou for um boné (que pode não ter tamanho)
+            if produto["tamanhos"] or is_bone or produto["imagens"]:
                 produtos_atualizados.append(produto)
             else:
                 print(f"\n❌ Produto esgotado e removido: {produto['titulo']}")
+                produtos_removidos_count += 1
         
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(produtos_atualizados, f, ensure_ascii=False, indent=2)
-        print(f"✅ Arquivo '{file_path.name}' salvo com {len(produtos_atualizados)} produtos em estoque.")
+        
+        print(f"✅ Arquivo '{file_path.name}' salvo com {len(produtos_atualizados)} produtos.")
+        if produtos_removidos_count > 0:
+            print(f"  - {produtos_removidos_count} produto(s) removido(s) por falta de estoque/imagens.")
 
 def main():
     """Função principal que interpreta os argumentos e executa o modo correto."""
@@ -213,11 +245,12 @@ def main():
         choices=['adicionar', 'atualizar'],
         help="Modo de operação:\n"
              "  adicionar  - (Rápido) Busca apenas produtos novos nas categorias.\n"
-             "  atualizar  - (Completo) Verifica o estoque de todos os produtos existentes."
+             "  atualizar  - (Completo) Verifica estoque e imagens de todos os produtos."
     )
     args = parser.parse_args()
 
     driver = setup_driver()
+    start_time = time.time()
     try:
         if args.modo == 'adicionar':
             run_add_mode(driver)
@@ -225,7 +258,8 @@ def main():
             run_update_mode(driver)
     finally:
         driver.quit()
-        print("\n🎉 Operação concluída. Navegador fechado.")
+        end_time = time.time()
+        print(f"\n🎉 Operação concluída em {end_time - start_time:.2f} segundos. Navegador fechado.")
 
 if __name__ == "__main__":
     main()
