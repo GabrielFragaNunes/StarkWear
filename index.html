@@ -717,8 +717,8 @@
                 'camisetas_algodao-egipcio.json', 'camisetas_importacao.json', 'camisetas_manga-longa.json',
                 'camisetas_naciona.json', 'camisetas_overs.json', 'camisetas_pi.json', 'camisetas_seda-pi.json',
                 'gola-polo_premium.json', 'camisetas_tamanhos-especiais.json', '_inverno_jaquetas-bobojaco.json',
-                '_inverno_calca-moletom.json', '_inverno_casaco-de-moletom_moletom-com-capuz.json',
-                '_inverno_casaco-de-moletom_moletom-sem-capuz.json', '_inverno_sueter.json'
+                'inverno_calca-moletom.json', 'inverno_casaco-de-moletom_moletom-com-capuz.json',
+                'inverno_casaco-de-moletom_moletom-sem-capuz.json', 'inverno_sueter.json'
             ];
             const priceMap = {
                 'bermudas_berm-jeans': 100.00, 'bermudas_berm-linho': 69.00, 'bermudas_berm-moletom': 69.00,
@@ -727,9 +727,9 @@
                 'camisetas_algodao-egipcio': 120.00, 'camisetas_importacao': 120.00, 'camisetas_manga-longa': 85.00,
                 'camisetas_naciona': 75.00, 'camisetas_overs': 95.00, 'camisetas_pi': 85.00,
                 'camisetas_seda-pi': 85.00, 'gola-polo_premium': 120.00, 'camisetas_tamanhos-especiais': 100.00,
-                '_inverno_calca-moletom': 89.00,
-                '_inverno_casaco-de-moletom_moletom-com-capuz': 210.00, '_inverno_casaco-de-moletom_moletom-sem-capuz': 160.00,
-                '_inverno_sueter': 189.90,
+                'inverno_calca-moletom': 89.00,
+                'inverno_casaco-de-moletom_moletom-com-capuz': 210.00, 'inverno_casaco-de-moletom_moletom-sem-capuz': 160.00,
+                'inverno_sueter': 189.90,
                 'Jaqueta Puffer': 310.00, 'Jaqueta Impermeável': 230.00, 'Jaqueta Social': 265.00, 'Jaqueta Outras': 200.00
             };
             const getCategoryName = (filename) => {
@@ -739,7 +739,7 @@
                     'calcas_jean': 'Calça Jeans', 'calcas_sarja': 'Calça Sarja',
                     'camisa-social': 'Camisa Social', 'camisetas_cotton-egipcio': 'Camiseta Algodão Egípcio',
                     'camisetas_algodao-egipcio': 'Camiseta Algodão Egípcio', 'camisetas_importacao': 'Camiseta Importada', 'camisetas_manga-longa': 'Camiseta Manga Longa', 'camisetas_naciona': 'Camiseta Nacional', 'camisetas_overs': 'Camiseta Oversized', 'camisetas_pi': 'Camiseta Pima', 'camisetas_seda-pi': 'Camiseta Seda Pima', 'gola-polo_premium': 'Camiseta Gola Polo', 'camisetas_tamanhos-especiais': 'Camiseta Plus Size',
-                    '_inverno_calca-moletom': 'Calça Moletom', '_inverno_casaco-de-moletom_moletom-com-capuz': 'Moletom com Capuz', '_inverno_casaco-de-moletom_moletom-sem-capuz': 'Moletom sem Capuz', '_inverno_sueter': 'Suéter'
+                    'inverno_calca-moletom': 'Calça Moletom', 'inverno_casaco-de-moletom_moletom-com-capuz': 'Moletom com Capuz', 'inverno_casaco-de-moletom_moletom-sem-capuz': 'Moletom sem Capuz', 'inverno_sueter': 'Suéter'
                 };
                 return categoryMap[key] || key.replace(/[-_]/g, ' ');
             };
