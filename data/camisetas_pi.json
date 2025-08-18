@@ -1,908 +1,907 @@
 [
   {
     "titulo": "Camiseta PIMA JERSEY TH - Branco",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-branco-jerseyth0053",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114220-3.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Marrom",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-marrom-jerseyth0050",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114218-3.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Preto",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-preto-jerseyth0049",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114219-3.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Azul Marinho",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-azul-marinh-jerseyth0048",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114220.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Vermelho",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-vermelho-jerseyth0047",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114219.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Verde",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-verde-jerseyth0046",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114219-4.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Branco",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-branco-jerseyth0045",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114219-2.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Bege",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-bege-jerseyth0044",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114219-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Vinho",
-    "tamanhos": [
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-vinho-jerseyara00016",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114218.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Branco",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-branco-jerseyara00015",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114218-2.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Bege",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-bege-jerseyara00014",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114218-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Preto",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-verde-jerseyara00013",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114216.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Verde",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-verde-jerseyara00012",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114217.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Marinho",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-marinho-jerseyara00011",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-29-at-114217-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LVS - Preto",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lvs-preto-jerseylvs0006",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111930.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LVS - Branco",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lvs-branco-jerseylvs0005",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111929.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LVS - Marrom",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lvs-marrom-jerseylvs0004",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111930-3.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LVS - Azul",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lvs-azul-jerseylvs0003",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111930-1.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LVS - Bege",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lvs-bege-jerseylvs0002",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111929-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LVS - Verde",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lvs-verde-jerseylvs0001",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111928.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Marinho",
-    "tamanhos": [
-      "P",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-marinho-jerseyara00010",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111931.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Branco",
-    "tamanhos": [
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-branco-jerseyara0009",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-24-at-111930-5.jpeg"
+    ],
+    "tamanhos": [
+      "GG"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Preto",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-preto-jerseyara0007",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130046.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Verde",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-verde-jerseyara0006",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130044.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Marrom",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-marrom-jerseyara0005",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130045-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Vinho",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-vinho-jerseyara0004",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130045-2.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Marinho",
-    "tamanhos": [
-      "P",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-marinho-jerseyara0003",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130045-3.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Bege",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-bege-jerseyara0002",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130045.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARA - Branco",
-    "tamanhos": [
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-ara-branco-jerseyara0001",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130046-1.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARM - Preto",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-arm-preto-jerseyarm0005",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130048-1.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARM - Branco",
-    "tamanhos": [
-      "P",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-arm-branco-jerseyarm0004",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130048-2.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Vermelho",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-vermelho-jerseyth0041",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130046-2.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Azul",
-    "tamanhos": [
-      "P",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-azul-jerseyth0040",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130047-1.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Branco",
-    "tamanhos": [
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-branco-jerseyth0038",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130047-3.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Vermelho",
-    "tamanhos": [
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-vermelho-jerseyth0037",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-07-11-at-130048.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Bege",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-bege-jerseyth0033",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115417-2.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Azul marinho",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-azul-marinho-jerseyth0032",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115418-2.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Preto",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-preto-jerseylct0009",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115420.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Azul marinho",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-azul-marinho-jerseylct0008",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115421.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Verde",
-    "tamanhos": [
-      "P",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-verde-jerseylct0007",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-120430.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Bege",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-bege-jerseylct0006",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115420-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY DSL - Preto",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-dsl-preto-jerseydsl0011",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115419-1.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY DSL - Azul marinho",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-dsl-azul-marinh-jerseydsl0010",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115419-2.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY DSL - Branco",
-    "tamanhos": [
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-dsl-branco-jerseydsl0009",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-06-04-at-115419-3.jpeg"
+    ],
+    "tamanhos": [
+      "GG"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY HB - Marrom",
-    "tamanhos": [
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-hb-marrom-jerseyhb0016",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-05-15-at-121323.jpeg"
+    ],
+    "tamanhos": [
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Verde",
-    "tamanhos": [
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-verde-jerseylct0005",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112924.jpeg"
+    ],
+    "tamanhos": [
+      "GG"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Branco",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-branco-jerseylct0004",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112924-1.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Marrom",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-marrom-jerseylct0003",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112923.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Marrom Escuro",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-marrom-jerseylct0002",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112923-1.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY LCT - Azul marinho",
-    "tamanhos": [
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-lct-azul-marinho-jerseylct0001",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112922.jpeg"
+    ],
+    "tamanhos": [
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Branco",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-branco-jerseyth0025",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112926-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Preto",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-preto-jerseyth0024",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112926-2.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Branco",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-branco-jerseyth0023",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112927.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Preto",
-    "tamanhos": [
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-preto-jerseyth0022",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112927-1.jpeg"
+    ],
+    "tamanhos": [
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Vermelho",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-vermelho-jerseyth0020",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-04-02-at-112927-3.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY HB - Bege",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-hb-bege-jerseyhb0004",
     "categoria": "pi",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155334.jpeg",
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155319.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155319.jpeg",
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155334.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY HB - Branco",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-hb-branc-jerseyhb0002",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155257.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155250.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY HB - Verde",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-hb-verde-jerseyhb0001",
     "categoria": "pi",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155244.jpeg",
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155237.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155237.jpeg",
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-155244.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY DSL - Branco",
-    "tamanhos": [
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-dsl-branco-jerseydsl0005",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-154613.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-154606.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY DSL - Preto",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-dsl-preto-jerseydsl0004",
     "categoria": "pi",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-154719.jpeg",
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-154718.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-154718.jpeg",
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-03-13-at-154719.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Preto",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-preto-jerseyth0015",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123522.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Azul marinho",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-azul-marinh-jerseyth0014",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123522-1.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Amarelo",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-amarelo-jerseyth0013",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123521.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Rosa",
-    "tamanhos": [
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-rosa-jerseyth0012",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123521-3.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Vermelho",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-vermelho-jerseyth0011",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123521-2.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Branco",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-bran-jerseyth0010",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123521-1.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Azul claro",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-azul-claro-jerseyth0009",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123520.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Cinza",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-verde-agua-jerseyth0008",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123520-3.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Laranja",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-laran-jerseyth0007",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-02-21-at-123520-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARM - Branco",
-    "tamanhos": [
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-arm-branc-jerseyarm0003",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-01-17-at-112836.jpeg"
+    ],
+    "tamanhos": [
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY ARM - Branco",
-    "tamanhos": [
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-arm-branco-jerseyarm0001",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-01-17-at-112833.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M"
     ]
   },
   {
     "titulo": "Camiseta PIMA JERSEY TH - Azul Marinho",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-pima-jersey-th-azul-marinho-jerseyth0003",
     "categoria": "pi",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/pima-jersey/whatsapp-image-2025-01-17-at-112839.jpeg"
+    ],
+    "tamanhos": [
+      "P"
     ]
   }
 ]

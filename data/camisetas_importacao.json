@@ -1,323 +1,498 @@
 [
   {
     "titulo": "Camiseta Importação Arm Estampada - Preto",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-arm-estampada-preto-importarm0003",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-armani/whatsapp-image-2024-10-31-at-145237.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "G",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação Arm Estampada - Bege",
-    "tamanhos": [
-      "P",
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-arm-estampada-bege-importarm0002",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-armani/whatsapp-image-2024-10-31-at-145238.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-armani/whatsapp-image-2024-10-31-at-145240.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação Arm Estampada - Branco",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-arm-estampada-branco-importarm0001",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-armani/whatsapp-image-2024-10-31-at-145235.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-armani/whatsapp-image-2024-10-31-at-145237-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "G",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação HB Estampada - Branco",
-    "tamanhos": [
-      "P",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-hb-estampada-branco-importacaohb0002",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100818-3.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100819.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "EXG",
+      "EXG",
+      "GG",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação HB Estampada - Preto",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-hb-estampada-preto-importacaohb0001",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100819-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Preto",
-    "tamanhos": [
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-pre-importacaolv0005",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100652-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Branco",
-    "tamanhos": [
-      "P",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-branco-importacaolv0004",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100651.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100652.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Verde",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-verde-importacaolv0003",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100653.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "G",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Branco",
-    "tamanhos": [
-      "GG",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-branco-importacaolv0002",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100657.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100657-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Preto",
-    "tamanhos": [
-      "M",
-      "G",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-preto-importacaolv0001",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100658.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-08-19-at-100656.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "G",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação HB Estampada - Branco",
-    "tamanhos": [
-      "GG",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-hb-estampada-branc-importacao046",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-06-05-at-103727.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "EXG",
+      "EXG",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação HB Estampada - Preto",
-    "tamanhos": [
-      "GG",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-hb-estampada-preto-importacao045",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-06-05-at-103727-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação HB Estampada - Azul Navy",
-    "tamanhos": [
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-hb-estampada-azul-navy-importacao044",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-03-13-at-101053-1.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/irroba/no-image.png"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação HB Estampada - Preto",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-hb-estampada-preto-importacao042",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-03-13-at-101116-1.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2024-03-13-at-101116.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Preto",
-    "tamanhos": [
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-preto-importacao025",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114803.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114803-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "G",
+      "G",
+      "GG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Branco",
-    "tamanhos": [
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-branco-importacao024",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114804.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114803-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Preto",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-preto-importacao023",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114807-1.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114808.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Branco",
-    "tamanhos": [
-      "P",
-      "GG",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-branco-importacao022",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114809.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114807-2.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "G",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "M",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Preto",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-branco-importacao021",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114806-1.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114806.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Branco",
-    "tamanhos": [
-      "P",
-      "GG",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-branco-importacao020",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114805.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação LV Estampada - Branco",
-    "tamanhos": [
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-lv-estampada-branco-importacao018",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114759.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-lv/whatsapp-image-2024-01-15-at-114801.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "G",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação BLM Estampada - Preto",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-blm-estampada-preto-importacao014",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2023-11-24-at-092229-1.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2023-11-24-at-092226-1.jpeg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/importacao/whatsapp-image-2023-11-24-at-092226.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "G",
+      "GG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação FND Estampada - Vermelho",
-    "tamanhos": [
-      "P",
-      "M",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-fnd-estampada-vermelho-importacao010",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-fendi/whatsapp-image-2023-11-21-at-111932.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação FND Estampada - Branco",
-    "tamanhos": [
-      "P",
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-fnd-estampada-branco-importacao008",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-fendi/whatsapp-image-2023-11-09-at-203518-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "EXG",
+      "GG",
+      "GG",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Importação FND Estampada - Vermelho",
-    "tamanhos": [
-      "EXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-importacao-fnd-estampada-vermelho-importacao007",
     "categoria": "importacao",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/camisetas-fendi/whatsapp-image-2023-11-09-at-204128-1.jpeg"
+    ],
+    "tamanhos": [
+      "EXG",
+      "GG",
+      "GG",
+      "GG",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   }
 ]

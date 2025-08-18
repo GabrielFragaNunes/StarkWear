@@ -1,146 +1,211 @@
 [
   {
     "titulo": "Camiseta Manga Longa CLC PREMIUM - Verde",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-els-premium-verde-mlclc0008",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172532-3.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa CLC PREMIUM - Marrom",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-els-premium-marrom-mlclc0006",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172533-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa ELS PREMIUM - Marrom",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-els-premium-marro-mlels0004",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172530-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa ELS PREMIUM - Verde",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-els-premium-verde-mlels0003",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172531-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "M",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa ELS PREMIUM - Cinza",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-els-premium-cinza-mlels0002",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172531.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "M",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa ELS PREMIUM - Preto",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-els-premium-preto-mlels0001",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172530.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "G",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa CLC PREMIUM - Verde",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-clc-premium-azul-marinho-mlclc0004",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172532.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa CLC PREMIUM - Vinho",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-clc-premium-marrom-mlclc0003",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-05-14-at-172532-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa RL - Azul bebe",
-    "tamanhos": [
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-rl-azul-beb-mlrl0001",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2025-04-01-at-161942-1.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "GG",
+      "GG",
+      "P",
+      "P",
+      "XXG"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa TH - Azul Royal claro",
-    "tamanhos": [
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-th-azul-royal-claro-593",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2024-06-03-at-144341-1.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "GG",
+      "GG",
+      "P",
+      "P",
+      "XXG"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa TH - Azul Bebe",
-    "tamanhos": [
-      "P",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-th-azul-bebe-592",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2024-06-03-at-144341.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "GG",
+      "GG",
+      "P",
+      "XXG"
     ]
   },
   {
     "titulo": "Camiseta Manga Longa TH - Verde Agua",
-    "tamanhos": [
-      "P",
-      "GG",
-      "XXG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/camiseta-manga-longa-th-verde-agu-588",
     "categoria": "manga-longa",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/img-2521.jpg"
+    ],
+    "tamanhos": [
+      "GG",
+      "GG",
+      "GG",
+      "P"
     ]
   }
 ]

@@ -13,7 +13,7 @@ CATEGORIES = [
      "camisetas/cotton-egipcio",
 
 ]
-BASE_DIR = r"C:\Users\Gabriel\Documents\GitHub\StarkWear\api-project"
+BASE_DIR = r"C:\Users\Gabriel\Documents\GitHub\StarkWear\data"
 
 def setup_driver():
     """Configura o driver do Selenium"""

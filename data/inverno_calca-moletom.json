@@ -1,83 +1,98 @@
 [
   {
     "titulo": "Calça Moletom HB - Mescla",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-moletom-hb-mescla-calcamolhb0009",
     "categoria": "calca-moletom",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-moletom/whatsapp-image-2025-06-27-at-114157-2.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Calça Moletom HB - Off White",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-moletom-hb-off-white-calcamolhb0008",
     "categoria": "calca-moletom",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-moletom/whatsapp-image-2025-06-27-at-114157.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Calça Moletom HB - Cinza Liso",
-    "tamanhos": [
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-moletom-hb-cinza-liso-calcamolhb0006",
     "categoria": "calca-moletom",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-moletom/whatsapp-image-2025-06-27-at-114157-1.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "M",
+      "P",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Calça Moletom HB - Bege",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-moletom-hb-bege-calcamolhb0005",
     "categoria": "calca-moletom",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-moletom/whatsapp-image-2025-06-27-at-114158-1.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Calça Moletom NK - Bege",
-    "tamanhos": [
-      "P",
-      "M"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-moletom-nk-bege-calcamolnk0015",
     "categoria": "calca-moletom",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-moletom/whatsapp-image-2025-06-17-at-110234-1.jpeg"
+    ],
+    "tamanhos": [
+      "M",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Calça Moletom TH - Branco",
-    "tamanhos": [
-      "P",
-      "M",
-      "GG"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-moletom-th-branco-calcamol0002",
     "categoria": "calca-moletom",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/conjuntos/whatsapp-image-2024-03-21-at-143009.jpeg"
-    ]
+    ],
+    "tamanhos": []
   },
   {
     "titulo": "Calça Moletom HB - Cinza Mescla Claro",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-moletom-hb-cinza-mescla-claro-403016009",
     "categoria": "calca-moletom",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-moletom/whatsapp-image-2023-06-27-at-133203.jpeg"
-    ]
+    ],
+    "tamanhos": []
   }
 ]

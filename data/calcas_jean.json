@@ -1,795 +1,1279 @@
 [
   {
-    "titulo": "Calça Jeans LCT Skinny - Azul",
-    "tamanhos": [
-      "38",
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-401018034",
+    "titulo": "Calça Jeans DSL Skinny - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-marrom-401016082",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150810-1.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-08-12-at-121129-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "48",
+      "48"
     ]
   },
   {
-    "titulo": "Calça Jeans HB Skinny - Azul escuro",
-    "tamanhos": [
-      "38",
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-escuro-4010160006",
+    "titulo": "Calça Jeans DSL Skinny - Cinza Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-cinza-escuro-401016081",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150810.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-08-12-at-121129-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40"
     ]
   },
   {
-    "titulo": "Calça Jeans ARM Skinny - Cinza",
-    "tamanhos": [
-      "38",
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-c-401003105",
+    "titulo": "Calça Jeans DSL Skinny - Cinza Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-cinza-claro-401016080",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150811-3.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ARM Skinny - Azul",
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-08-12-at-121130.jpeg"
+    ],
     "tamanhos": [
       "38",
+      "38",
       "40",
-      "42",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-401003104",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150811-1.jpeg"
+      "40"
     ]
   },
   {
     "titulo": "Calça Jeans DSL Skinny - Preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-preto-401016079",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-08-12-at-121129.jpeg"
+    ],
     "tamanhos": [
       "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-preto-401016078",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150810-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul claro",
-    "tamanhos": [
       "38",
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016077",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150811-2.20250725151746.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-401016076",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-134859.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Verde",
-    "tamanhos": [
       "38",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-verde-401016075",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-4.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Verde estonado",
-    "tamanhos": [
-      "38",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-verde-estonado-401016074",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-3.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Azul claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-claro-4010160005",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Azul",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-calcajeansth0004",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans LCT Skinny - Preto Estonado",
-    "tamanhos": [
-      "38",
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-preto-estonado-401018033",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-134900-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans LCT Skinny - Preto",
-    "tamanhos": [
-      "38",
-      "44"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-preto-401018032",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-134900.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-cla-401016072",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858-7.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul escuro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-escuro-401016071",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858-4.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul escuro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-preto-401016070",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Preto estonado",
-    "tamanhos": [
-      "38",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-preto-estonado-4010160004",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Azul claro",
-    "tamanhos": [
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-c-4010160003",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-20-at-170642.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Preto Estonado",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-preto-estonado-calcajeansth0003",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858-6.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Azul",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-4010160002",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-28-at-130508-3.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016069",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-02-at-121926.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-401016067",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-28-at-130508-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Preto",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-preto-calcajeansth0002",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-28-at-130508-4.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ARM Skinny - Azul escuro",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-escuro-401003102",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-27-at-084331.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-clar-401016065",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-27-at-084332.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Bege",
-    "tamanhos": [
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-bege-calcajeansthbege",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-04-30-at-114114.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Verde",
-    "tamanhos": [
-      "38",
-      "40",
       "42",
-      "46"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-marrom-escuro-calcajeansthmarromescuro",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-04-30-at-114108.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Marrom",
-    "tamanhos": [
-      "40",
-      "44"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-marrom-calcajeansmarromth",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-04-30-at-114104.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ARM TRADICIONAL - Azul claro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-tradicional-azul-claro-401003101",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-29-at-145330-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Azul Claro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-claro-401030094",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-14-at-150303-3.jpeg"
+      "48"
     ]
   },
   {
     "titulo": "Calça Jeans LCT Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-401018034",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150810-1.jpeg"
+    ],
     "tamanhos": [
       "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-401018031",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-14-at-150303-1.jpeg"
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46"
     ]
   },
   {
-    "titulo": "Calça Jeans DSL Skinny - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016060",
+    "titulo": "Calça Jeans HB Skinny - Azul escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-escuro-4010160006",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-14-at-150302.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Azul claro",
-    "tamanhos": [
-      "40"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150810.jpeg"
     ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-claro-401016047",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-02-24-at-132825-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans LCT Skinny - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-claro-401018030",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-19-at-091753.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-401016055",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-20-at-131520-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL Skinny - Azul claro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016053",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-20-at-131519.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Azul",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-401030092",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-19-at-091752.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Preto",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-preto-401030091",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-02-24-at-132824.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans RL - Azul escuro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-rl-azul-escuro-4010180010",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-02-24-at-132824-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Azul",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016043",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-12-18-at-094554-3.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-claro-copia-calcajeansthazu",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-12-18-at-094554-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ELS Slin FIT - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-els-slin-fit-azul-claro-401013009",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-11-28-at-092916.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans LVS Slin FIT- Azul Escuro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lvs-slin-fit-azul-escuro-calcaslinlvs0003",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-11-28-at-092955.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans TH Skinny - Azul Claro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-claro-401030090",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-10-03-at-185439.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans Skinny ELS - Azul",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-skinny-els-azul-401013008",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-10-03-at-185441-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Marrom",
     "tamanhos": [
       "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-marro-401016041",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-09-05-at-151927-1.jpeg"
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "42",
+      "44",
+      "46",
+      "46",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Jeans ARM Skinny - Cinza",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-cinza-401003098",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-c-401003105",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-20-at-170639.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ARM Skinny - Marrom",
-    "tamanhos": [
-      "38"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150811-3.jpeg"
     ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-marrom-401003097",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-20-at-170641-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans LVS Slin - Azul Claro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lvs-slin-azul-claro-calcaslinlvs0001",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-29-at-100352.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans LCT Slin - Azul",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-slin-azul-401018024",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-29-at-100353-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans CLC Slin - Azul",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-clc-slin-azul-clcjeans0003",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-29-at-100351-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ARM Skinny - Azul Escuro",
     "tamanhos": [
       "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans ARM Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-401003104",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150811-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "46"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-preto-401016078",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150810-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016077",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-07-14-at-150811-2.20250725151746.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "44",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-401016076",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-134859.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Verde",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-verde-401016075",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-4.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
       "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-escuro-401003096",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-07-at-073733-3.jpeg"
     ]
   },
   {
-    "titulo": "Calça Jeans RL - Preto",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-rl-cinza-copia-401018000",
+    "titulo": "Calça Jeans DSL Skinny - Verde estonado",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-verde-estonado-401016074",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-07-at-073733-2.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-3.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "48"
     ]
   },
   {
-    "titulo": "Calça Jeans HB Skinny - Azul",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016037",
+    "titulo": "Calça Jeans HB Skinny - Azul claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-claro-4010160005",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-07-02-at-110429.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "46"
     ]
   },
   {
-    "titulo": "Calça Jeans DSL skinny - Azul Escuro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-4010100133",
+    "titulo": "Calça Jeans TH Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-calcajeansth0004",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-07-02-at-110428-1.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-153411-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "42",
+      "44",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LCT Skinny - Preto Estonado",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-preto-estonado-401018033",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-134900-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Jeans LCT Skinny - Preto",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-preto-401018026",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-preto-401018032",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/novas/whatsapp-image-2024-05-25-at-151533-1.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-06-26-at-134900.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "46"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-escuro-401016071",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858-4.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-preto-401016070",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Preto estonado",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-preto-estonado-4010160004",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Azul claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-c-4010160003",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-20-at-170642.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Preto Estonado",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-preto-estonado-calcajeansth0003",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-13-at-154858-6.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
     ]
   },
   {
     "titulo": "Calça Jeans HB Skinny - Azul",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016032",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-4010160002",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-05-26-at-234903-2.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-28-at-130508-3.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016069",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-06-02-at-121926.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "44",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-401016067",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-28-at-130508-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-preto-calcajeansth0002",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-28-at-130508-4.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans ARM Skinny - Azul escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-escuro-401003102",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-27-at-084331.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-clar-401016065",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-05-27-at-084332.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "42"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Bege",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-bege-calcajeansthbege",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-04-30-at-114114.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Verde",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-marrom-escuro-calcajeansthmarromescuro",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-04-30-at-114108.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "44",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-marrom-calcajeansmarromth",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2025-04-30-at-114104.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans ARM TRADICIONAL - Azul claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-tradicional-azul-claro-401003101",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-29-at-145330-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-claro-401030094",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-14-at-150303-3.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LCT Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-401018031",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-14-at-150303-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016060",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-04-14-at-150302.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Azul claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-claro-401016047",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-02-24-at-132825-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LCT Skinny - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-claro-401018030",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-19-at-091753.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-401016055",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-20-at-131520-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL Skinny - Azul claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-claro-401016053",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-20-at-131519.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-401030092",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-03-19-at-091752.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-preto-401030091",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-02-24-at-132824.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans RL - Azul escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-rl-azul-escuro-4010180010",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2025-02-24-at-132824-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "46",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Jeans HB Skinny - Azul",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016031",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016043",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-04-24-at-144956.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ARM Skinny - Azul Claro Lisa",
-    "tamanhos": [
-      "40"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-12-18-at-094554-3.jpeg"
     ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-claro-lisa-401003089",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134440-3.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans ARM Skinny - Azul Escuro",
     "tamanhos": [
       "38",
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-escuro-401003084",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134440-1.jpeg"
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "42",
+      "46",
+      "46"
     ]
   },
   {
-    "titulo": "Calça Jeans LCT Skinny - Azul Escuro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-escuro-401018025",
+    "titulo": "Calça Jeans TH Skinny - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-claro-copia-calcajeansthazu",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134439.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-12-18-at-094554-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "48",
+      "48"
     ]
   },
   {
-    "titulo": "Calça Jeans HB Skinny - Marrom Claro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-marrom-claro-401016029",
+    "titulo": "Calça Jeans ELS Slin FIT - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-els-slin-fit-azul-claro-401013009",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134441-2.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-11-28-at-092916.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "44",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LVS Slin FIT- Azul Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lvs-slin-fit-azul-escuro-calcaslinlvs0003",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-11-28-at-092955.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "40",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans TH Skinny - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-th-skinny-azul-claro-401030090",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-10-03-at-185439.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "44",
+      "44",
+      "46",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans Skinny ELS - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-skinny-els-azul-401013008",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-10-03-at-185441-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "48",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Jeans HB Skinny - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-marro-401016041",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-09-05-at-151927-1.jpeg"
+    ],
     "tamanhos": [
       "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans ARM Skinny - Cinza",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-cinza-401003098",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-20-at-170639.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "46",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans ARM Skinny - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-marrom-401003097",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-20-at-170641-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "46",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LVS Slin - Azul Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lvs-slin-azul-claro-calcaslinlvs0001",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-29-at-100352.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "42",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LCT Slin - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-slin-azul-401018024",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-29-at-100353-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "46"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans CLC Slin - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-clc-slin-azul-clcjeans0003",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-29-at-100351-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
       "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-marrom-401016027",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134441-1.jpeg"
     ]
   },
   {
-    "titulo": "Calça Jeans DSL skinny - Azul botão preto",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-botao-p-4010100116",
+    "titulo": "Calça Jeans ARM Skinny - Azul Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-escuro-401003096",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-03-12-at-094153-2.jpeg"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-07-at-073733-3.jpeg"
+    ],
+    "tamanhos": [
+      "40",
+      "40",
+      "40",
+      "48",
+      "48",
+      "48"
     ]
   },
   {
-    "titulo": "Calça Jeans FR Slin - Azul Escuro",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-fr-slin-azul-escuro-calcafr001",
+    "titulo": "Calça Jeans RL - Preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-rl-cinza-copia-401018000",
     "categoria": "jean",
     "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-01-12-at-092941.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans HB Skinny - Branco",
-    "tamanhos": [
-      "38"
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-08-07-at-073733-2.jpeg"
     ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-branco-401016021",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2023-12-22-at-141714-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Jeans DSL skinny - Azul",
     "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-4010100111",
-    "categoria": "jean",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2023-11-24-at-161705.jpeg"
+      "38",
+      "38",
+      "38",
+      "40",
+      "42",
+      "46",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Jeans HB Skinny - Azul",
-    "tamanhos": [
-      "38"
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016037",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-07-02-at-110429.jpeg"
     ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL skinny - Azul Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-4010100133",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-07-02-at-110428-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LCT Skinny - Preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-preto-401018026",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/novas/whatsapp-image-2024-05-25-at-151533-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016032",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-05-26-at-234903-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016031",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2024-04-24-at-144956.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL skinny - Azul Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-escuro-4010100119",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134702.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans ARM Skinny - Azul Claro Lisa",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-claro-lisa-401003089",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134440-3.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans ARM Skinny - Azul Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-arm-skinny-azul-escuro-401003084",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134440-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans LCT Skinny - Azul Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-lct-skinny-azul-escuro-401018025",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134439.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "44",
+      "46",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Marrom Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-marrom-claro-401016029",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134441-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-marrom-401016027",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-04-10-at-134441-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL skinny - Azul botão preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-botao-p-4010100116",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-03-12-at-094153-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans FR Slin - Azul Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-fr-slin-azul-escuro-calcafr001",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2024-01-12-at-092941.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Branco",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-branco-401016021",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2023-12-22-at-141714-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans DSL skinny - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/calca-jeans-dsl-skinny-azul-4010100111",
+    "categoria": "jean",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-jeans/whatsapp-image-2023-11-24-at-161705.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Jeans HB Skinny - Azul",
     "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-skinny-azul-401016017",
     "categoria": "jean",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2023-09-15-at-174628-3.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40"
     ]
   },
   {
     "titulo": "Calça Jeans HB SLIM - Azul",
-    "tamanhos": [
-      "38"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-jeans-hb-slim-azul-401016015",
     "categoria": "jean",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-jeans/whatsapp-image-2023-08-28-at-154251-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40"
     ]
   }
 ]

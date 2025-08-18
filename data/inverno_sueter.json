@@ -1,82 +1,119 @@
 [
   {
-    "titulo": "Sueter HB Gola Redonda - Marinho",
-    "tamanhos": [
-      "P",
-      "M"
+    "titulo": "Sueter RL Gola Redonda - Azul",
+    "url_produto": "https://www.catalogopoa.com.br/sueter-rl-gola-redonda-azul-sueterpremium00014",
+    "categoria": "sueter",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-08-13-at-160608.jpeg"
     ],
+    "tamanhos": [
+      "M",
+      "P",
+      "P",
+      "P"
+    ]
+  },
+  {
+    "titulo": "Sueter HB Gola Redonda - Marinho",
     "url_produto": "https://www.catalogopoa.com.br/sueter-hb-gola-redonda-marinho-sueterpremiumhb0004",
     "categoria": "sueter",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-06-23-at-154633.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Sueter HB Gola Redonda - Cinza",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/sueter-hb-gola-redonda-c-sueterpremiumhb0002",
     "categoria": "sueter",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-06-23-at-154632.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Sueter RL Meio ziper - Marrom Escuro",
-    "tamanhos": [
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/sueter-rl-meio-ziper-marrom-escuro-sueterpremium00013",
     "categoria": "sueter",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-06-11-at-133145.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "G",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Sueter RL Meio ziper - Bege",
-    "tamanhos": [
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/sueter-rl-meio-ziper-bege-sueterpremium00011",
     "categoria": "sueter",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-04-08-at-112033-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "G",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Sueter RL Gola Redonda - Azul marinho",
-    "tamanhos": [
-      "P"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/sueter-rl-gola-redonda-azul-marinho-sueterpremiumrl0003",
     "categoria": "sueter",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-05-08-at-113141-1.jpeg"
+    ],
+    "tamanhos": [
+      "GG",
+      "M",
+      "P",
+      "P"
     ]
   },
   {
     "titulo": "Sueter RL Meio ziper - Marrom",
-    "tamanhos": [
-      "P",
-      "M",
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/sueter-rl-meio-ziper-marrom-sueterpremium0008",
     "categoria": "sueter",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-04-25-at-122626-4.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "G",
+      "P"
     ]
   },
   {
     "titulo": "Sueter RL Meio ziper - Cinza Claro",
-    "tamanhos": [
-      "G"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/sueter-rl-meio-ziper-cinza-claro-sueterpremium0007",
     "categoria": "sueter",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/sueter/whatsapp-image-2025-04-25-at-122627.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "G",
+      "M",
+      "P",
+      "P",
+      "P"
     ]
   }
 ]

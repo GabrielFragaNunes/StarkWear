@@ -1,429 +1,636 @@
 [
   {
-    "titulo": "Calça Sarja TH - Creme",
+    "titulo": "Calça Sarja TH - Azul Marinho",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-azul-marinho-th00022",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-07-25-at-163441-1.jpeg"
+    ],
     "tamanhos": [
       "38",
+      "38",
+      "38",
       "40",
-      "42",
-      "44",
+      "40",
+      "46",
       "46",
       "48"
-    ],
+    ]
+  },
+  {
+    "titulo": "Calça Sarja TH - Creme",
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-creme-th00021",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-07-25-at-163442.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "46",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja TH - Marrom",
-    "tamanhos": [
-      "38",
-      "40",
-      "42",
-      "46",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-marrom-th00020",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-07-25-at-163442-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "46",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja TH - Cinza Escuro",
-    "tamanhos": [
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-cinza-escuro-th00019",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-07-25-at-163441.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "46",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja TH - Preto",
-    "tamanhos": [
-      "38",
-      "46",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-preto-th00018",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-07-25-at-163441-3.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "44",
+      "46",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja TH - Cinza Claro",
-    "tamanhos": [
-      "46",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-cinza-claro-th00017",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-07-25-at-163441-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja TH - Azul marinho",
-    "tamanhos": [
-      "48"
     ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-azul-marinho-th00016",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-07-25-at-163441-1.jpeg"
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "46",
+      "46",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja ARM - Azul Marinho",
-    "tamanhos": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-azul-marinho-arm0010",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-07-24-at-093102.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "46",
+      "46",
+      "46",
+      "48",
+      "48",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja ARM - Marrom",
-    "tamanhos": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-marrom-arm0009",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-07-24-at-093102-3.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "44",
+      "46",
+      "46",
+      "46",
+      "48",
+      "48",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja ARM - Preto",
-    "tamanhos": [
-      "38",
-      "40",
-      "46",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-pret-arm0008",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-07-24-at-093102-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "42",
+      "44",
+      "44",
+      "46",
+      "46",
+      "46",
+      "48",
+      "48",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja ARM - Cinza Escuro",
-    "tamanhos": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-cinza-escuro-arm0007",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-07-24-at-093102-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "44",
+      "46",
+      "46",
+      "46",
+      "48",
+      "48",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja ARM - Cinza Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-cinza-claro-arm0006",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-07-24-at-093103.jpeg"
+    ],
     "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "44",
+      "46",
+      "46",
+      "46",
+      "48",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja ARA - Verde",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-verde-ara0005",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123919.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "46",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja ARA - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-marrom-ara0004",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123918.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja ARA - Creme",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-creme-ara0002",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123918-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "44",
+      "46",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja ARA - Cinza Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-cinza-claro-ara0001",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123918-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja TH - Creme",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-creme-th00013",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-05-28-at-093950.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "44",
+      "46",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja TH - Caqui",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-caqui-th00010",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-05-28-at-093949.jpeg"
+    ],
+    "tamanhos": [
+      "40",
+      "40",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Preto",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-preto-404018058",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114034.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Azul Marinho",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-azul-marinho-404018056",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114037-2.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "44",
+      "46",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Off white",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-off-white-404018055",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114036-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-marrom-404018054",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114037-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "44",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Cinza escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-cinza-escuro-404018052",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114037.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja LCT - Marrom Escuro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-lct-verde-calcasarjalct0001",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-02-20-at-113312.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja ARM - Verde",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-verde-arm0003",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-11-22-at-113106-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "42",
+      "42",
+      "44",
+      "46",
+      "46",
+      "46",
+      "46",
+      "48",
+      "48",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Marrom",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-verde-404018051",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-09-09-at-132342.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "44",
+      "46",
+      "46"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Verde",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-verde-404018049",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-09-09-at-131308-1.jpeg"
+    ],
+    "tamanhos": [
+      "40",
+      "40",
+      "40",
+      "48",
+      "48"
+    ]
+  },
+  {
+    "titulo": "Calça Sarja RL - Cinza Claro",
+    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-cinza-clar-404018048",
+    "categoria": "sarja",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-08-09-at-100246-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
       "38",
       "40",
       "42",
       "44",
       "46",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-cinza-claro-arm0006",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-07-24-at-093103.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja ARA - Verde",
-    "tamanhos": [
-      "38",
-      "40",
       "46",
+      "48",
+      "48",
       "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-verde-ara0005",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123919.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja ARA - Marrom",
-    "tamanhos": [
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-marrom-ara0004",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123918.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja ARA - Preto",
-    "tamanhos": [
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-preto-ara0003",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123919-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja ARA - Creme",
-    "tamanhos": [
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-creme-ara0002",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123918-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja ARA - Cinza Claro",
-    "tamanhos": [
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-ara-cinza-claro-ara0001",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2025-06-16-at-123918-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja TH - Creme",
-    "tamanhos": [
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-creme-th00013",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-05-28-at-093950.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja TH - Caqui",
-    "tamanhos": [
-      "40",
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-th-caqui-th00010",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-05-28-at-093949.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Preto",
-    "tamanhos": [
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-preto-404018058",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114034.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Azul Marinho",
-    "tamanhos": [
-      "40"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-azul-marinho-404018056",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114037-2.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Off white",
-    "tamanhos": [
-      "40",
-      "44",
-      "46"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-off-white-404018055",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114036-1.jpeg"
     ]
   },
   {
     "titulo": "Calça Sarja RL - Marrom",
-    "tamanhos": [
-      "38",
-      "40",
-      "46"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-marrom-404018054",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114037-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Cinza escuro",
-    "tamanhos": [
-      "38",
-      "40",
-      "44"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-cinza-escuro-404018052",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-04-30-at-114037.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja LCT - Marrom Escuro",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-lct-verde-calcasarjalct0001",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2025-02-20-at-113312.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja ARM - Verde",
-    "tamanhos": [
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-arm-verde-arm0003",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-11-22-at-113106-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Marrom",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-verde-404018051",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-09-09-at-132342.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Verde",
-    "tamanhos": [
-      "38"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-verde-404018049",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-09-09-at-131308-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Cinza Claro",
-    "tamanhos": [
-      "48"
-    ],
-    "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-cinza-clar-404018048",
-    "categoria": "sarja",
-    "imagens": [
-      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-08-09-at-100246-1.jpeg"
-    ]
-  },
-  {
-    "titulo": "Calça Sarja RL - Marrom",
-    "tamanhos": [
-      "38",
-      "40",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-marr-404018044",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-08-09-at-100247-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40",
+      "40",
+      "40",
+      "42",
+      "44",
+      "46",
+      "46",
+      "46",
+      "48",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja RL - Marrom Escuro",
-    "tamanhos": [
-      "38",
-      "48"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-marrom-escuro-404018042",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-08-09-at-100246.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "42",
+      "46",
+      "48",
+      "48"
     ]
   },
   {
     "titulo": "Calça Sarja RL - Marrom",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-marrom-404018036",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2024-05-02-at-133833-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40"
     ]
   },
   {
     "titulo": "Calça Sarja HB - Marrom",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-hb-marrom-5040005",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calcas-sarja/whatsapp-image-2024-03-12-at-134508-1.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40"
     ]
   },
   {
     "titulo": "Calça Sarja RL - Marrom Escuro",
-    "tamanhos": [
-      "38",
-      "40"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-rl-marrom-escuro-404018018",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2023-04-26-at-175627.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "40",
+      "40",
+      "40"
     ]
   },
   {
     "titulo": "Calça Sarja LCT - Marrom",
-    "tamanhos": [
-      "38"
-    ],
     "url_produto": "https://www.catalogopoa.com.br/calca-sarja-lct-marrom-404018010",
     "categoria": "sarja",
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/calca-sarja/whatsapp-image-2022-10-19-at-112426.jpeg"
+    ],
+    "tamanhos": [
+      "38",
+      "38",
+      "38",
+      "40",
+      "40"
     ]
   }
 ]
