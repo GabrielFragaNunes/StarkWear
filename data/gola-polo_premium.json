@@ -8,18 +8,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -33,14 +23,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -54,18 +38,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -78,18 +53,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -103,11 +69,9 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -118,10 +82,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2025-04-01-at-151108.jpeg"
     ],
     "tamanhos": [
+      "G",
+      "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -133,11 +98,10 @@
     ],
     "tamanhos": [
       "G",
+      "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -149,16 +113,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -171,11 +127,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2025-04-01-at-151111-1.jpeg"
     ],
     "tamanhos": [
-      "G",
+      "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -190,9 +145,6 @@
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P",
       "XXG"
     ]
   },
@@ -206,16 +158,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
-      "M",
-      "M",
-      "M",
       "M",
       "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -230,10 +174,6 @@
       "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -247,14 +187,10 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "GG",
       "GG",
       "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -266,16 +202,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -287,12 +216,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2025-07-04-at-142425-1.jpeg"
     ],
     "tamanhos": [
-      "GG",
-      "GG",
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -307,10 +233,7 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -325,9 +248,6 @@
       "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -339,8 +259,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/dsl/whatsapp-image-2025-08-14-at-103433-1.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
+      "G",
+      "GG",
+      "M",
       "P",
       "XXG"
     ]
@@ -355,14 +276,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -375,7 +290,7 @@
     "tamanhos": [
       "G",
       "GG",
-      "P",
+      "M",
       "P"
     ]
   },
@@ -387,10 +302,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ellus/whatsapp-image-2025-08-14-at-103431.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
+      "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -403,12 +319,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -420,17 +332,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -444,9 +348,6 @@
       "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -458,10 +359,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ellus/whatsapp-image-2025-08-14-at-103434-1.jpeg"
     ],
     "tamanhos": [
+      "G",
+      "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -474,14 +376,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
-      "M",
       "M",
       "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -493,16 +389,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-11-14-at-162025.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -513,18 +402,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2025-05-08-at-113144-2.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG",
       "XXG"
     ]
   },
@@ -536,12 +416,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2025-05-08-at-113145-2.jpeg"
     ],
     "tamanhos": [
-      "GG",
+      "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -554,13 +431,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2025-05-08-at-113145-1.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
       "P",
       "XXG"
     ]
@@ -573,16 +445,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2025-07-21-at-115330.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
-      "GG",
-      "GG",
-      "GG",
-      "M",
-      "M",
       "M",
       "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -594,18 +459,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2025-05-08-at-113144-3.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
-      "GG",
-      "GG",
-      "GG",
-      "M",
-      "M",
-      "M",
       "M",
       "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -618,13 +475,7 @@
     ],
     "tamanhos": [
       "GG",
-      "GG",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "M",
-      "P",
       "P",
       "XXG"
     ]
@@ -637,12 +488,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/arm/whatsapp-image-2025-07-10-at-133948-4.jpeg"
     ],
     "tamanhos": [
-      "GG",
+      "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -656,11 +504,10 @@
     ],
     "tamanhos": [
       "G",
-      "G",
       "GG",
+      "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -671,12 +518,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/levis/whatsapp-image-2025-07-10-at-082810-1.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -687,18 +533,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/levis/whatsapp-image-2025-07-10-at-082810.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -711,14 +548,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -729,11 +560,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ellus/whatsapp-image-2025-07-11-at-101036-3.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -748,11 +577,8 @@
       "G",
       "GG",
       "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -764,15 +590,10 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -784,11 +605,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
       "GG",
       "M",
-      "M",
-      "P",
       "P",
       "XXG"
     ]
@@ -802,17 +620,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -825,13 +635,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
-      "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -843,13 +648,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/aramis/whatsapp-image-2025-07-04-at-142422.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
-      "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -864,11 +665,9 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -883,9 +682,6 @@
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -899,10 +695,7 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
-      "P",
-      "P",
-      "P",
+      "M",
       "P",
       "XXG"
     ]
@@ -915,11 +708,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2025-07-04-at-143047.jpeg"
     ],
     "tamanhos": [
+      "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -930,10 +722,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2025-04-01-at-151108.jpeg"
     ],
     "tamanhos": [
-      "G",
       "M",
-      "M",
-      "P",
       "P"
     ]
   },
@@ -945,11 +734,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2025-04-01-at-151110-1.jpeg"
     ],
     "tamanhos": [
+      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -961,13 +747,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2025-06-05-at-161701.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -980,8 +763,7 @@
     "tamanhos": [
       "GG",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -992,11 +774,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2025-06-05-at-161701-2.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1013,9 +793,7 @@
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1026,22 +804,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2025-06-05-at-161700-1.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1052,9 +817,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2025-06-05-at-161700-2.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "M",
       "P"
     ]
   },
@@ -1070,9 +833,6 @@
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P",
       "XXG"
     ]
   },
@@ -1086,10 +846,7 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1105,11 +862,7 @@
       "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1123,11 +876,7 @@
       "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1138,9 +887,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ralph/whatsapp-image-2025-05-08-at-113144-1.jpeg"
     ],
     "tamanhos": [
+      "G",
+      "GG",
       "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1153,22 +902,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1179,11 +915,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2025-03-21-at-163041.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1197,12 +933,7 @@
       "G",
       "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1216,10 +947,6 @@
       "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1231,10 +958,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ellus/whatsapp-image-2025-01-15-at-140321.jpeg"
     ],
     "tamanhos": [
+      "G",
+      "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1246,13 +972,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ellus/whatsapp-image-2025-01-15-at-140329.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1266,14 +987,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1287,13 +1002,7 @@
     ],
     "tamanhos": [
       "G",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1307,14 +1016,23 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
+    ]
+  },
+  {
+    "titulo": "Gola Polo Premium RL - Azul marinho",
+    "url_produto": "https://www.catalogopoa.com.br/gola-polo-premium-rl-azul-marinho-801118059",
+    "categoria": "premium",
+    "imagens": [
+      "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ralph/whatsapp-image-2024-12-13-at-155643-1.jpeg"
+    ],
+    "tamanhos": [
+      "G",
+      "GG",
+      "M",
+      "P"
     ]
   },
   {
@@ -1327,13 +1045,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1345,16 +1058,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1367,13 +1072,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-12-13-at-143322-1.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1385,11 +1087,9 @@
     ],
     "tamanhos": [
       "GG",
-      "GG",
       "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1400,13 +1100,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ralph/whatsapp-image-2024-12-06-at-152700-1.jpeg"
     ],
     "tamanhos": [
-      "GG",
+      "G",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1417,13 +1115,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/ralph/whatsapp-image-2024-12-06-at-152655.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1434,9 +1129,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-11-27-at-141644.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
-      "P",
+      "M",
       "P"
     ]
   },
@@ -1449,13 +1143,9 @@
     ],
     "tamanhos": [
       "GG",
-      "GG",
-      "GG",
-      "M",
       "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1466,20 +1156,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-11-14-at-162021.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1490,9 +1169,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-11-13-at-103328.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "G",
+      "GG",
+      "M",
       "P"
     ]
   },
@@ -1504,10 +1183,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-11-13-at-103331.jpeg"
     ],
     "tamanhos": [
+      "G",
+      "GG",
       "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1519,10 +1199,7 @@
     ],
     "tamanhos": [
       "G",
-      "M",
-      "P",
-      "P",
-      "P",
+      "GG",
       "P"
     ]
   },
@@ -1534,12 +1211,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2024-12-16-at-105712.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1552,13 +1225,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/plus-size/whatsapp-image-2024-08-14-at-170410.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1570,13 +1237,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-10-11-at-102515-3.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
       "GG",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1589,13 +1250,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1606,13 +1263,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2024-07-29-at-115322.jpeg"
     ],
     "tamanhos": [
-      "GG",
+      "G",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1624,14 +1279,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -1643,13 +1293,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/tommy/whatsapp-image-2024-07-29-at-115324-2.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1663,16 +1308,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1685,13 +1322,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-10-07-at-164143.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
       "P",
       "XXG"
     ]
@@ -1705,9 +1337,7 @@
     ],
     "tamanhos": [
       "G",
-      "GG",
-      "P",
-      "P",
+      "M",
       "P"
     ]
   },
@@ -1719,13 +1349,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-10-04-at-153536.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1739,11 +1366,7 @@
       "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1755,19 +1378,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
       "GG",
-      "GG",
-      "GG",
-      "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1781,8 +1393,6 @@
     "tamanhos": [
       "GG",
       "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1796,9 +1406,6 @@
     "tamanhos": [
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1813,9 +1420,6 @@
     "tamanhos": [
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1828,9 +1432,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/burberry/whatsapp-image-2024-08-10-at-123606-2.jpeg"
     ],
     "tamanhos": [
+      "GG",
       "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -1842,20 +1445,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-08-08-at-150557-2.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "GG",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1867,16 +1458,8 @@
     ],
     "tamanhos": [
       "GG",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1887,17 +1470,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-08-08-at-150554.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
-      "GG",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1908,11 +1482,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-11-27-at-141644-1.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
-      "GG",
-      "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -1928,11 +1499,8 @@
       "G",
       "GG",
       "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1943,10 +1511,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-07-24-at-131852-2.jpeg"
     ],
     "tamanhos": [
+      "G",
+      "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -1959,15 +1528,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1980,14 +1542,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -1999,12 +1555,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
       "P",
       "XXG"
     ]
@@ -2017,13 +1569,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-06-13-at-103622.jpeg"
     ],
     "tamanhos": [
-      "GG",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2038,9 +1584,6 @@
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -2052,12 +1595,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-08-14-at-162503.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2071,9 +1612,6 @@
       "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2090,9 +1628,7 @@
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2103,13 +1639,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-01-10-at-173927.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
-      "GG",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2122,9 +1652,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2024-01-10-at-173928.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "G",
+      "M",
       "P"
     ]
   },
@@ -2137,12 +1666,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -2155,15 +1680,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2174,12 +1693,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2024-01-10-at-173932.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "GG",
+      "P"
     ]
   },
   {
@@ -2191,14 +1706,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2212,12 +1721,7 @@
     ],
     "tamanhos": [
       "GG",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2228,15 +1732,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2023-12-02-at-144056.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2247,12 +1744,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2023-03-15-at-161251-1.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2265,15 +1759,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2023-11-27-at-100511-1.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "GG",
-      "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2285,21 +1772,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2311,14 +1785,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2332,16 +1800,7 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2352,9 +1811,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-11-01-at-104045.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "G",
+      "GG",
+      "M",
       "P"
     ]
   },
@@ -2366,13 +1825,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-10-26-at-140030-1.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -2384,12 +1836,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-10-26-at-140028-1.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "GG",
       "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2404,11 +1851,7 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2421,10 +1864,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2023-11-27-at-100510.jpeg"
     ],
     "tamanhos": [
+      "GG",
+      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2435,12 +1878,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/lct/whatsapp-image-2023-03-15-at-161251-3.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "M",
-      "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -2454,12 +1891,9 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2470,13 +1904,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-09-02-at-112245-1.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
       "XXG"
     ]
   },
@@ -2488,15 +1919,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-09-02-at-112228.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2512,10 +1936,8 @@
       "G",
       "GG",
       "M",
-      "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2526,9 +1948,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-09-02-at-112248.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "G",
+      "GG",
+      "M",
       "P"
     ]
   },
@@ -2540,9 +1962,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-09-02-at-112246-1.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "G",
+      "GG",
+      "M",
       "P"
     ]
   },
@@ -2556,12 +1978,7 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2574,12 +1991,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-08-21-at-153159-2.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "M",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2590,10 +2002,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-08-21-at-153155.jpeg"
     ],
     "tamanhos": [
+      "G",
       "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -2605,18 +2015,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-08-21-at-153158.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "G",
-      "G",
-      "GG",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -2628,15 +2027,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-08-21-at-153159-1.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2648,14 +2039,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2669,14 +2054,7 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2689,11 +2067,7 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2709,11 +2083,8 @@
       "G",
       "GG",
       "M",
-      "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2725,14 +2096,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2745,9 +2110,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-08-01-at-135029-1.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -2759,6 +2121,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-07-13-at-162746.jpeg"
     ],
     "tamanhos": [
+      "M",
       "P"
     ]
   },
@@ -2782,12 +2145,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/dsl/whatsapp-image-2023-07-06-at-170956-2.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2800,12 +2162,9 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2817,20 +2176,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2841,10 +2189,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/dsl/whatsapp-image-2023-07-06-at-170955.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
+      "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2857,10 +2206,6 @@
     "tamanhos": [
       "G",
       "GG",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -2873,14 +2218,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2023-07-06-at-170959-2.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2892,16 +2231,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2912,13 +2244,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-05-31-at-160538-2.jpeg"
     ],
     "tamanhos": [
-      "GG",
+      "G",
       "GG",
       "M",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -2930,16 +2259,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -2952,9 +2273,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-05-31-at-160521.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "G",
+      "GG",
+      "M",
       "P"
     ]
   },
@@ -2967,14 +2288,10 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
       "P",
-      "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -2985,12 +2302,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-04-28-at-154208-3.jpeg"
     ],
     "tamanhos": [
-      "G",
       "GG",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -3003,9 +2315,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-04-13-at-134846.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3018,14 +2327,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3038,19 +2341,9 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
-      "GG",
       "GG",
       "M",
-      "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "P",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -3061,9 +2354,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2023-03-15-at-161255.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3076,14 +2366,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -3097,14 +2381,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -3117,11 +2395,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/polo-peruana/whatsapp-image-2023-01-13-at-180355.jpeg"
     ],
     "tamanhos": [
-      "GG",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3134,9 +2407,8 @@
     ],
     "tamanhos": [
       "G",
+      "GG",
       "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3150,10 +2422,6 @@
     "tamanhos": [
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -3166,17 +2434,8 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2023-01-09-at-120347-1.jpeg"
     ],
     "tamanhos": [
-      "G",
-      "GG",
-      "GG",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -3187,13 +2446,7 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2023-01-09-at-120348-1.jpeg"
     ],
     "tamanhos": [
-      "GG",
       "M",
-      "M",
-      "M",
-      "M",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3205,11 +2458,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/gola-polo-hb/whatsapp-image-2023-01-09-at-120350-1.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -3221,14 +2474,8 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "GG",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3240,10 +2487,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2022-11-18-at-163348.jpeg"
     ],
     "tamanhos": [
+      "G",
+      "GG",
       "M",
       "P",
-      "P",
-      "P"
+      "XXG"
     ]
   },
   {
@@ -3256,14 +2504,8 @@
     "tamanhos": [
       "G",
       "GG",
-      "GG",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
-      "XXG",
-      "XXG"
+      "P"
     ]
   },
   {
@@ -3274,11 +2516,9 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2022-09-03-at-133847-1.jpeg"
     ],
     "tamanhos": [
+      "G",
       "GG",
       "M",
-      "M",
-      "P",
-      "P",
       "P",
       "XXG"
     ]
@@ -3291,9 +2531,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/img-20221116-wa0154.jpg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3305,9 +2542,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2022-09-26-at-152854.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3319,9 +2553,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/gola-polo/whatsapp-image-2022-09-26-at-152855.jpeg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -3333,7 +2564,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/polo-peruana/whatsapp-image-2022-06-29-at-101930-2.jpeg"
     ],
     "tamanhos": [
-      "P",
       "P"
     ]
   },
@@ -3345,7 +2575,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/polo-peruana/whatsapp-image-2022-06-29-at-101930-1.jpeg"
     ],
     "tamanhos": [
-      "P",
       "P"
     ]
   },
@@ -3357,7 +2586,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/polo-peruana/whatsapp-image-2022-06-29-at-101929.jpeg"
     ],
     "tamanhos": [
-      "P",
       "P"
     ]
   }

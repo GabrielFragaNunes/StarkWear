@@ -8,9 +8,6 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "40",
       "40",
       "42",
       "44",
@@ -27,14 +24,9 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "40",
-      "40",
       "40",
       "42",
       "44",
-      "46",
       "46"
     ]
   },
@@ -47,13 +39,9 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
       "40",
-      "40",
-      "40",
-      "46",
+      "42",
+      "44",
       "46",
       "48"
     ]
@@ -67,14 +55,8 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
       "40",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
+      "42"
     ]
   },
   {
@@ -86,10 +68,6 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
-      "40",
       "40"
     ]
   },
@@ -102,14 +80,7 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
-      "40",
-      "40",
-      "42",
-      "46",
-      "48"
+      "40"
     ]
   },
   {
@@ -121,11 +92,11 @@
     ],
     "tamanhos": [
       "38",
-      "38",
       "40",
-      "40",
-      "40",
-      "46"
+      "42",
+      "44",
+      "46",
+      "48"
     ]
   },
   {
@@ -137,21 +108,10 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
       "40",
-      "40",
-      "40",
-      "42",
-      "42",
       "42",
       "44",
-      "44",
       "46",
-      "46",
-      "46",
-      "48",
       "48"
     ]
   },
@@ -164,15 +124,8 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "40",
-      "40",
       "40",
       "42",
-      "42",
-      "44",
-      "46",
       "46",
       "48"
     ]
@@ -186,12 +139,11 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
       "40",
-      "40",
-      "42"
+      "42",
+      "44",
+      "46",
+      "48"
     ]
   },
   {
@@ -203,27 +155,7 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "40",
-      "40",
-      "40",
-      "40",
-      "42",
-      "42",
-      "42",
-      "42",
-      "44",
-      "44",
-      "44",
-      "46",
-      "46",
-      "46",
-      "46",
-      "48",
-      "48",
-      "48",
-      "48"
+      "40"
     ]
   },
   {
@@ -235,21 +167,10 @@
     ],
     "tamanhos": [
       "38",
-      "38",
       "40",
-      "40",
-      "40",
-      "40",
-      "42",
-      "42",
       "42",
       "44",
-      "44",
       "46",
-      "46",
-      "46",
-      "48",
-      "48",
       "48"
     ]
   },
@@ -261,9 +182,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/whatsapp-image-2024-01-12-at-143425.jpeg"
     ],
     "tamanhos": [
-      "38",
-      "38",
-      "38",
       "38",
       "40"
     ]
@@ -277,9 +195,6 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
       "40"
     ]
   },
@@ -292,10 +207,6 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
-      "40",
       "40"
     ]
   },
@@ -309,20 +220,8 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
       "40",
-      "40",
-      "40",
-      "42",
-      "42",
-      "44",
-      "44",
-      "46",
-      "46",
-      "48",
-      "48"
+      "42"
     ]
   },
   {
@@ -335,10 +234,6 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
-      "40",
       "40"
     ]
   },
@@ -351,9 +246,7 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38"
+      "40"
     ]
   },
   {
@@ -365,11 +258,6 @@
     ],
     "tamanhos": [
       "38",
-      "38",
-      "38",
-      "38",
-      "40",
-      "40",
       "40",
       "42",
       "44"
@@ -383,7 +271,13 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/img-20230921-wa0672.jpg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/img-20230921-wa0673.20230921174144.jpg"
     ],
-    "tamanhos": []
+    "tamanhos": [
+      "38",
+      "G",
+      "GG",
+      "M",
+      "P"
+    ]
   },
   {
     "titulo": "Bermuda Jeans Arm - Preto",
@@ -393,7 +287,11 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/img-20230921-wa0690.jpg",
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/img-20230921-wa0691.jpg"
     ],
-    "tamanhos": []
+    "tamanhos": [
+      "38",
+      "M",
+      "P"
+    ]
   },
   {
     "titulo": "Bermuda Jeans DSL - Azul",
@@ -403,9 +301,10 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/novas/img-20230223-wa0006.jpg"
     ],
     "tamanhos": [
-      "P",
-      "P",
-      "P",
+      "38",
+      "G",
+      "GG",
+      "M",
       "P"
     ]
   },
@@ -416,7 +315,13 @@
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/whatsapp-image-2023-01-27-at-124552-2.jpeg"
     ],
-    "tamanhos": []
+    "tamanhos": [
+      "38",
+      "G",
+      "GG",
+      "M",
+      "P"
+    ]
   },
   {
     "titulo": "Bermuda Jeans DSL - Azul",
@@ -425,7 +330,13 @@
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/whatsapp-image-2022-11-16-at-093013-1.jpeg"
     ],
-    "tamanhos": []
+    "tamanhos": [
+      "38",
+      "G",
+      "GG",
+      "M",
+      "P"
+    ]
   },
   {
     "titulo": "Bermuda Jeans DSL - Marrom",
@@ -434,7 +345,13 @@
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/whatsapp-image-2022-08-30-at-091422.jpeg"
     ],
-    "tamanhos": []
+    "tamanhos": [
+      "38",
+      "G",
+      "GG",
+      "M",
+      "P"
+    ]
   },
   {
     "titulo": "Bermuda Jeans HB - Azul",
@@ -443,6 +360,12 @@
     "imagens": [
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/bermuda-jeans/whatsapp-image-2022-08-11-at-161234-1.jpeg"
     ],
-    "tamanhos": []
+    "tamanhos": [
+      "38",
+      "G",
+      "GG",
+      "M",
+      "P"
+    ]
   }
 ]

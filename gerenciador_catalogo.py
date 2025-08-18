@@ -14,9 +14,8 @@ from tqdm import tqdm
 # --- CONFIGURAÇÕES GLOBAIS ---
 BASE_URL = "https://www.catalogopoa.com.br"
 CATEGORIES_TO_SCRAPE = [
-    # Adicione ou remova categorias aqui para controlar o que será buscado.
-    
-    "bermudas/mauricinho-linho", # Exemplo: Mauricinho Linho
+    "inverno/jaquetas-bobojaco",
+    "inverno/sueter",
 ]
 OUTPUT_DIR = Path(r"C:\Users\Gabriel\Documents\GitHub\StarkWear\data")
 WAIT_TIMEOUT = 10
@@ -58,21 +57,15 @@ def clean_product_title(title: str) -> str:
 
 def get_product_details(driver: webdriver.Chrome, product_url: str) -> dict:
     """
-    Visita a página de um produto para extrair imagens e tamanhos de forma robusta,
-    garantindo a ordem correta das imagens.
+    Visita a página de um produto para extrair imagens e tamanhos de forma robusta.
     """
     details = {"imagens": [], "tamanhos": []}
     try:
         driver.get(product_url)
         wait = WebDriverWait(driver, WAIT_TIMEOUT)
 
-        # ======================================================================
-        # --- INÍCIO DA CORREÇÃO DE ORDENAÇÃO DE IMAGENS ---
-        # ======================================================================
-        
+        # 1. Coleta de Imagens (lógica mantida)
         all_image_urls = []
-
-        # 1. Tenta obter a imagem principal primeiro para garantir que ela seja uma candidata
         try:
             main_image = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, SELECTORS["main_image"])))
             main_image_src = main_image.get_attribute("src")
@@ -80,12 +73,9 @@ def get_product_details(driver: webdriver.Chrome, product_url: str) -> dict:
                 all_image_urls.append(main_image_src)
         except TimeoutException:
             print(f"  - Aviso: Imagem principal não encontrada para {product_url}")
-
-        # 2. Coleta as imagens das thumbnails, que ditam a ordem correta
         try:
             thumbnails = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, SELECTORS["thumbnail_images"])))
             if thumbnails:
-                # Extrai as URLs na ordem em que aparecem no HTML
                 thumbnail_urls = [
                     thumb.get_attribute("data-large-image") 
                     for thumb in thumbnails 
@@ -93,39 +83,44 @@ def get_product_details(driver: webdriver.Chrome, product_url: str) -> dict:
                 ]
                 all_image_urls.extend(thumbnail_urls)
         except TimeoutException:
-            print(f"  - Aviso: Nenhuma thumbnail encontrada para {product_url}. Usando apenas a imagem principal, se existir.")
+            pass
         
-        # 3. Remove duplicatas mantendo a ordem (a partir do Python 3.7+)
         if all_image_urls:
             details["imagens"] = list(dict.fromkeys(all_image_urls))
         else:
-             print(f"  - Aviso: Nenhuma imagem (principal ou thumbnail) foi encontrada para {product_url}")
+             print(f"  - Aviso: Nenhuma imagem encontrada para {product_url}")
 
         # ======================================================================
-        # --- FIM DA CORREÇÃO ---
+        # --- INÍCIO DA CORREÇÃO DE DUPLICAÇÃO DE TAMANHOS ---
         # ======================================================================
-
-        # 4. Coletar Tamanhos (lógica existente mantida)
+        
+        # 2. Coletar Tamanhos de forma exaustiva
         found_sizes = []
         for selector in SELECTORS["sizes_selectors"]:
             try:
                 size_elements = driver.find_elements(By.CSS_SELECTOR, selector)
                 if size_elements:
-                    found_sizes = [el.text.strip() for el in size_elements if el.text.strip()]
-                    break
+                    # Usamos .extend() para adicionar os tamanhos encontrados à lista principal
+                    # Removemos o 'break' para garantir que todos os seletores sejam verificados
+                    sizes_from_selector = [el.text.strip() for el in size_elements if el.text.strip()]
+                    found_sizes.extend(sizes_from_selector)
             except NoSuchElementException:
                 continue
         
+        # 3. Aplica o filtro de itens únicos e a ordenação no final, sobre a lista completa
         if found_sizes:
-            # Garante que os tamanhos sejam únicos e ordenados
             details["tamanhos"] = sorted(list(set(found_sizes)))
+
+        # ======================================================================
+        # --- FIM DA CORREÇÃO ---
+        # ======================================================================
 
     except Exception as e:
         print(f"  - Erro crítico ao processar detalhes de {product_url}: {e}")
     
     return details
 
-# --- LÓGICAS DOS MODOS DE OPERAÇÃO ---
+# --- LÓGICAS DOS MODOS DE OPERAÇÃO (sem alterações) ---
 
 def run_add_mode(driver: webdriver.Chrome):
     """MODO ADICIONAR: Busca apenas produtos novos nas categorias especificadas."""

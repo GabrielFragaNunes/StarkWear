@@ -195,7 +195,8 @@
                         } else {
                             actionsHTML = `<button class="btn-adicionar-carrinho">Adicionar ao Carrinho</button>`;
                         }
-                        card.innerHTML = `<img src="${produto.imagens[0] || ''}" alt="${produto.titulo}" class="produto-imagem" loading="lazy"><div class="produto-info"><h3 class="produto-titulo">${produto.titulo}</h3>${precoFormatado ? `<div class="produto-preco">${precoFormatado}</div>` : ''}<div class="produto-actions">${actionsHTML}</div></div>`;
+                        card.innerHTML = `<img src="${produto.imagens[0] || ''}" alt="${produto.titulo}" class="produto-imagem" loading="lazy">
+                        <div class="produto-info"><h3 class="produto-titulo">${produto.titulo}</h3>${precoFormatado ? `<div class="produto-preco">${precoFormatado}</div>` : ''}<div class="produto-actions">${actionsHTML}</div></div>`;
                         produtosGrid.appendChild(card);
                     });
                 }

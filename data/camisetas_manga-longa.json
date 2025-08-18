@@ -8,12 +8,7 @@
     ],
     "tamanhos": [
       "G",
-      "G",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -27,10 +22,6 @@
     "tamanhos": [
       "G",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -44,11 +35,6 @@
     "tamanhos": [
       "G",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -61,14 +47,7 @@
     ],
     "tamanhos": [
       "G",
-      "G",
       "M",
-      "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -81,14 +60,7 @@
     ],
     "tamanhos": [
       "G",
-      "G",
       "M",
-      "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -101,14 +73,7 @@
     ],
     "tamanhos": [
       "G",
-      "G",
-      "G",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -122,10 +87,6 @@
     "tamanhos": [
       "G",
       "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -139,11 +100,6 @@
     "tamanhos": [
       "G",
       "M",
-      "M",
-      "M",
-      "P",
-      "P",
-      "P",
       "P"
     ]
   },
@@ -156,9 +112,6 @@
     ],
     "tamanhos": [
       "GG",
-      "GG",
-      "GG",
-      "P",
       "P",
       "XXG"
     ]
@@ -172,9 +125,6 @@
     ],
     "tamanhos": [
       "GG",
-      "GG",
-      "GG",
-      "P",
       "P",
       "XXG"
     ]
@@ -187,8 +137,6 @@
       "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/camieeua/catalog/manga-longa/whatsapp-image-2024-06-03-at-144341.jpeg"
     ],
     "tamanhos": [
-      "GG",
-      "GG",
       "GG",
       "P",
       "XXG"
@@ -203,9 +151,8 @@
     ],
     "tamanhos": [
       "GG",
-      "GG",
-      "GG",
-      "P"
+      "P",
+      "XXG"
     ]
   }
 ]
