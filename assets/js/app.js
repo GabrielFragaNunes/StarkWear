@@ -346,7 +346,7 @@
                 'calcas_jean.json', 'calcas_sarja.json', 'camisa-social.json','camisetas_cotton-egipcio.json',
                 'camisetas_algodao-egipcio.json', 'camisetas_importacao.json', 'camisetas_manga-longa.json',
                 'camisetas_naciona.json', 'camisetas_overs.json', 'camisetas_pi.json', 'camisetas_seda-pi.json',
-                'gola-polo_premium.json', 'camisetas_tamanhos-especiais.json', '_inverno_jaquetas-bobojaco.json',
+                'gola-polo_premium.json', 'camisetas_tamanhos-especiais.json', 'inverno_jaquetas-bobojaco.json',
                 'inverno_calca-moletom.json', 'inverno_casaco-de-moletom_moletom-com-capuz.json',
                 'inverno_casaco-de-moletom_moletom-sem-capuz.json', 'inverno_sueter.json'
             ];
@@ -384,7 +384,7 @@
             const promessas = jsonFiles.map(async file => {
                 const data = await loadJSON(file);
                 if (!Array.isArray(data)) return [];
-                if (file === '_inverno_jaquetas-bobojaco.json') {
+                if (file === 'inverno_jaquetas-bobojaco.json') {
                     return data.map(produto => {
                         const titulo = produto.titulo.toUpperCase();
                         let categoria;
